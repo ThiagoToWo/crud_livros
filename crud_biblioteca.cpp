@@ -5,18 +5,12 @@ using std::cerr;
 using std::endl;
 
 #include <cstring>
-using std::strcpy;
-
-/*#include <string>
-using std::string;*/
+using std::strcmp;
 
 #include <fstream>
 using std::ifstream;
 using std::ofstream;
 using std::ios_base;
-
-/*#include <algorithm>
-using std::swap;*/
 
 void titulo();
 void adicionar();
@@ -30,21 +24,22 @@ struct livro {
 	char titulo[100];
 	char autor[50];
 	char editora[50];
-	int edicao;
-	int ano;
-	int paginas;
+	char edicao[3];
+	char ano[5];
+	char paginas[5];
+	char preco[8];
 };
 
 livro livros[100];
 
-//void sort(livro[], int);
+void sort(livro[], int);
 
 int top  = -1;
 
 int main() {
 	ifstream ifs;
 	ofstream ofs;
-	int opcao;
+	char opcao;
 	
 	titulo();
 	
@@ -60,28 +55,24 @@ int main() {
 		cin.get();
 		
 		switch (opcao) {			
-			case 1: adicionar(); break;
-			case 2: listar(); break;
-			case 3: editar(); break;
-			case 4: remover(); break;
-			case 5: carregar(ifs); break;
-			case 6: salvar(ofs); break;
-			default: cout << "Valor invalido";
-		}
-	} while (opcao != 7);	
+			case '1': adicionar(); break;
+			case '2': listar(); break;
+			case '3': editar(); break;
+			case '4': remover(); break;
+			case '5': carregar(ifs); break;
+			case '6': salvar(ofs); break;
+			default: 
+				system("cls");
+				titulo();
+				cout << "Valor invalido\n\n";
+		}		
+	} while (opcao != '7');	
 }
 
 void adicionar() {
 	char opcao;
 	
-	do {
-		char* titulo_;
-		char* autor_;
-		char* editora_;
-		int edicao_;
-		int ano_;
-		int paginas_;
-		
+	do {		
 		cout << "Insira o titulo: ";
 		cin.getline(livros[++top].titulo, 100);
 		cout << "Insira o autor: ";
@@ -89,11 +80,13 @@ void adicionar() {
 		cout << "Insira a editora: ";
 		cin.getline(livros[top].editora, 50);
 		cout << "Insira a edicao: ";
-		cin >> livros[top].edicao;
+		cin.getline(livros[top].edicao, 3);		
 		cout << "Insira o ano: ";
-		cin >> livros[top].ano;
+		cin.getline(livros[top].ano, 5);
 		cout << "Insira o numero de paginas: ";
-		cin >> livros[top].paginas;
+		cin.getline(livros[top].paginas, 5);
+		cout << "Insira o preco: ";
+		cin.getline(livros[top].preco, 8);
 		
 		cout << "Deseja incluir mais algum livro? (S/N): ";		
 		cin >> opcao;
@@ -110,11 +103,12 @@ void listar() {
 	
 	for (int i = 0; i <= top; i++) {
 		cout << (i + 1) << " - " << livros[i].titulo << "; " 
-			 << livros[i].autor << "; "
+			 << livros[i].autor << "; Editora "
 			 << livros[i].editora << "; "
-			 << livros[i].edicao << "; "
+			 << livros[i].edicao << "a ed.; "
 			 << livros[i].ano << "; "
-			 << livros[i].paginas << "\n";
+			 << livros[i].paginas << " pag.; R$ "
+			 << livros[i].preco << endl;
 	}
 	
 	cout << "\n";
@@ -126,19 +120,13 @@ void editar() {
 	do {
 		int indice;
 		int atributo;
-		char* tituloNovo[100];
-		char* autorNovo[50];
-		char* editoraNovo[50];
-		int edicaoNovo;
-		int anoNovo;
-		int paginasNovo;
 		
 		listar();
 		cout << "Insira o indice do livro a ser editado: ";
 		cin >> indice;
 		
 		cout << "\nInsira o indice do atributo a ser editado\n"
-			 << "\t1 - titulo\t4 - edicao\n"
+			 << "\t1 - titulo\t4 - edicao\t7 - preco\n"
 			 << "\t2 - autor\t5 - ano\n"
 			 << "\t3 - editora\t6 - paginas\n\n"
 			 << "Sua escolha: ";
@@ -160,20 +148,23 @@ void editar() {
 				break;
 			case 4:
 				cout << "Insira a nova edicao: ";
-				cin >> edicaoNovo;
-				livros[indice - 1].edicao = edicaoNovo;
+				cin.getline(livros[indice - 1].edicao, 3);
 				break;
 			case 5: 
 				cout << "Insira o novo ano: ";
-				cin >> anoNovo;
-				livros[indice - 1].ano = anoNovo;
+				cin.getline(livros[indice - 1].ano, 5);
 				break;
 			case 6:
 				cout << "Insira o novo numero de paginas: ";
-				cin >> paginasNovo;
-				livros[indice - 1].paginas = paginasNovo;
+				cin.getline(livros[indice - 1].paginas, 5);
 				break;
-			default: cout << "Valor invalido";
+			case 7: 
+				cout << "Insira o novo preco: ";
+				cin.getline(livros[indice - 1].preco, 8);
+				break;
+			default:
+				cout << "Valor invalido\n\n";
+				system("pause");
 		}
 		
 		listar();
@@ -241,22 +232,21 @@ void carregar(ifstream& ifs) {
 
 void salvar(ofstream& ofs) {
 	ofs.open("livros.dat", ios_base::out | ios_base::binary);
-	int n = sizeof(livros) / sizeof(livro);
-	//sort(livros, n);
+	sort(livros, top + 1);
 	ofs.write((char*) &livros, sizeof(livro) * (top + 1));	
 	ofs.close();
 	system("cls");
 	titulo();
 }
 
-/*void sort(livro l[], int ln) {	
+void sort(livro l[], int ln) {	
 	for (int i = 1; i < ln; i++) {
 		for (int j = 0; j < ln - i; j++) {
-			string s1(l[j].titulo);
-			string s2(l[j + 1].titulo);
-			if (s1 > s2) {
-				swap(l[j], l[j + 1]);
+			if (strcmp(l[j].titulo, l[j + 1].titulo) > 0) {
+				livro temp = l[j];
+				l[j] = l[j + 1];
+				l[j + 1] = temp;
 			}
 		}
 	}
-}*/
+}
