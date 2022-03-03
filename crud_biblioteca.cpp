@@ -88,6 +88,8 @@ void adicionar() {
 		cout << "Insira o preco: ";
 		cin.getline(livros[top].preco, 8);
 		
+		sort(livros, top + 1);
+		
 		cout << "Deseja incluir mais algum livro? (S/N): ";		
 		cin >> opcao;
 		cin.get();
@@ -167,6 +169,8 @@ void editar() {
 				system("pause");
 		}
 		
+		sort(livros, top + 1);
+		
 		listar();
 		cout << "Deseja editar mais algum livro? (S/N): ";		
 		cin >> opcao;
@@ -191,7 +195,7 @@ void remover() {
 		}
 		
 		top--;
-		
+	
 		listar();
 		cout << "Deseja incluir mais algum livro? (S/N): ";
 		cin >> opcao;
@@ -232,7 +236,6 @@ void carregar(ifstream& ifs) {
 
 void salvar(ofstream& ofs) {
 	ofs.open("livros.dat", ios_base::out | ios_base::binary);
-	sort(livros, top + 1);
 	ofs.write((char*) &livros, sizeof(livro) * (top + 1));	
 	ofs.close();
 	system("cls");
