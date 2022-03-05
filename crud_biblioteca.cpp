@@ -7,6 +7,13 @@ using std::endl;
 #include <cstring>
 using std::strcmp;
 
+#include <cstdlib>
+using std::atoi;
+using std::atof;
+
+#include <cctype>
+using std::isdigit;
+
 #include <fstream>
 using std::ifstream;
 using std::ofstream;
@@ -121,11 +128,20 @@ void editar() {
 	
 	do {
 		int indice;
-		int atributo;
+		char atributo;
 		
 		listar();
-		cout << "Insira o indice do livro a ser editado: ";
-		cin >> indice;
+		cout << "Insira o indice do livro a ser editado (voltar = 0): ";
+		cin >> indice;	
+		
+		while (indice > top + 1 || indice <= -1) {
+			listar();
+			cout << "Valor invalido\n";
+			cout << "Insira o indice do livro a ser editado (voltar = 0): ";
+			cin >> indice;
+		}
+		
+		if (indice == 0) break;
 		
 		cout << "\nInsira o indice do atributo a ser editado\n"
 			 << "\t1 - titulo\t4 - edicao\t7 - preco\n"
@@ -133,34 +149,34 @@ void editar() {
 			 << "\t3 - editora\t6 - paginas\n\n"
 			 << "Sua escolha: ";
 		cin >> atributo;
-		cin.get();
+		cin.get();	
 		
 		switch (atributo) {
-			case 1: 
+			case '1': 
 				cout << "Insira o novo titulo: ";
 				cin.getline(livros[indice - 1].titulo, 100);
 				break;
-			case 2:
+			case '2':
 				cout << "Insira o novo autor: ";
 				cin.getline(livros[indice - 1].autor, 50);
 				break;
-			case 3: 
+			case '3': 
 				cout << "Insira a nova editora: ";
 				cin.getline(livros[indice - 1].editora, 50);
 				break;
-			case 4:
+			case '4':
 				cout << "Insira a nova edicao: ";
 				cin.getline(livros[indice - 1].edicao, 3);
 				break;
-			case 5: 
+			case '5': 
 				cout << "Insira o novo ano: ";
 				cin.getline(livros[indice - 1].ano, 5);
 				break;
-			case 6:
+			case '6':
 				cout << "Insira o novo numero de paginas: ";
 				cin.getline(livros[indice - 1].paginas, 5);
 				break;
-			case 7: 
+			case '7': 
 				cout << "Insira o novo preco: ";
 				cin.getline(livros[indice - 1].preco, 8);
 				break;
@@ -187,8 +203,17 @@ void remover() {
 		int indice;
 		
 		listar();
-		cout << "Insira o indice do livro a ser removido: ";
+		cout << "Insira o indice do livro a ser removido (voltar = 0): ";
 		cin >> indice;
+		
+		while (indice > top + 1 || indice <= -1) {
+			listar();
+			cout << "Valor invalido\n";
+			cout << "Insira o indice do livro a ser removido (voltar = 0): ";
+			cin >> indice;
+		}
+		
+		if (indice == 0) break;
 		
 		for (int i = indice; i <= top; i++) {
 			livros[i - 1] = livros[i];
