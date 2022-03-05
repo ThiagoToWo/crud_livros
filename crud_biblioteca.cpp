@@ -7,9 +7,14 @@ using std::endl;
 #include <cstring>
 using std::strcmp;
 
-#include <cstdlib>
-using std::atoi;
-using std::atof;
+#include <exception>
+using std::exception;
+
+#include <string>
+using std::string;
+using std::stoi;
+using std::stod;
+using std::getline;
 
 #include <cctype>
 using std::isdigit;
@@ -31,13 +36,13 @@ struct livro {
 	char titulo[100];
 	char autor[50];
 	char editora[50];
-	char edicao[3];
-	char ano[5];
-	char paginas[5];
-	char preco[8];
+	char edicao[5];
+	char ano[8];
+	char paginas[8];
+	double preco;
 };
 
-livro livros[100];
+livro livros[2];
 
 void sort(livro[], int);
 
@@ -78,8 +83,10 @@ int main() {
 
 void adicionar() {
 	char opcao;
-	
-	do {		
+		
+	do {	
+		string p;
+		
 		cout << "Insira o titulo: ";
 		cin.getline(livros[++top].titulo, 100);
 		cout << "Insira o autor: ";
@@ -92,8 +99,15 @@ void adicionar() {
 		cin.getline(livros[top].ano, 5);
 		cout << "Insira o numero de paginas: ";
 		cin.getline(livros[top].paginas, 5);
-		cout << "Insira o preco: ";
-		cin.getline(livros[top].preco, 8);
+		cout << "Insira o preco: ";		
+		getline(cin, p);		
+		try {
+			livros[top].preco = stod(p);
+		} catch (exception &e) {
+			livros[top].preco = 0.;
+			cout << "Voce inseriu caractere(s). Preco = 0\n";
+			system("pause");
+		}
 		
 		sort(livros, top + 1);
 		
@@ -127,18 +141,34 @@ void editar() {
 	char opcao;
 	
 	do {
+		string i;
+		string p;
 		int indice;
 		char atributo;
 		
 		listar();
 		cout << "Insira o indice do livro a ser editado (voltar = 0): ";
-		cin >> indice;	
+		cin >> i;
+		try {
+			indice = stoi(i);
+		} catch (exception &e) {
+			indice = 0;
+			cout << "Voce inseriu caractere(s). Voltando ao inicio...\n";
+			system("pause");
+		}
 		
 		while (indice > top + 1 || indice <= -1) {
 			listar();
 			cout << "Valor invalido\n";
 			cout << "Insira o indice do livro a ser editado (voltar = 0): ";
-			cin >> indice;
+			cin >> i;
+			try {
+				indice = stoi(i);
+			} catch (exception &e) {
+				indice = 0;
+				cout << "Voce inseriu caractere(s). Voltando ao inicio...\n";
+				system("pause");
+			}
 		}
 		
 		if (indice == 0) break;
@@ -178,7 +208,14 @@ void editar() {
 				break;
 			case '7': 
 				cout << "Insira o novo preco: ";
-				cin.getline(livros[indice - 1].preco, 8);
+				getline(cin, p);		
+				try {
+					livros[indice - 1].preco = stod(p);
+				} catch (exception &e) {
+					livros[indice - 1].preco = 0.;
+					cout << "Voce inseriu caractere(s). preco = 0\n";
+					system("pause");
+				}
 				break;
 			default:
 				cout << "Valor invalido\n\n";
@@ -200,17 +237,32 @@ void remover() {
 	char opcao;
 	
 	do {
+		string i;
 		int indice;
 		
 		listar();
 		cout << "Insira o indice do livro a ser removido (voltar = 0): ";
-		cin >> indice;
+		cin >> i;
+		try {
+			indice = stoi(i);
+		} catch (exception &e) {
+			indice = 0;
+			cout << "Voce inseriu caractere(s). Voltando ao inicio...\n";
+			system("pause");
+		}
 		
 		while (indice > top + 1 || indice <= -1) {
 			listar();
 			cout << "Valor invalido\n";
 			cout << "Insira o indice do livro a ser removido (voltar = 0): ";
-			cin >> indice;
+			cin >> i;
+			try {
+				indice = stoi(i);
+			} catch (exception &e) {
+				indice = 0;
+				cout << "Voce inseriu caractere(s). Voltando ao inicio...\n";
+				system("pause");
+			}
 		}
 		
 		if (indice == 0) break;
