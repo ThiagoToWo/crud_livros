@@ -16,9 +16,6 @@ using std::stoi;
 using std::stod;
 using std::getline;
 
-#include <cctype>
-using std::isdigit;
-
 #include <fstream>
 using std::ifstream;
 using std::ofstream;
@@ -42,11 +39,12 @@ struct livro {
 	double preco;
 };
 
-livro livros[2];
+livro livros[5000];
 
 void sort(livro[], int);
 
 int top  = -1;
+double total = 0;
 
 int main() {
 	ifstream ifs;
@@ -84,36 +82,44 @@ int main() {
 void adicionar() {
 	char opcao;
 		
-	do {	
-		string p;
+	do {
+		if (top < 4999) {
+			string p;
 		
-		cout << "Insira o titulo: ";
-		cin.getline(livros[++top].titulo, 100);
-		cout << "Insira o autor: ";
-		cin.getline(livros[top].autor, 50);
-		cout << "Insira a editora: ";
-		cin.getline(livros[top].editora, 50);
-		cout << "Insira a edicao: ";
-		cin.getline(livros[top].edicao, 3);		
-		cout << "Insira o ano: ";
-		cin.getline(livros[top].ano, 5);
-		cout << "Insira o numero de paginas: ";
-		cin.getline(livros[top].paginas, 5);
-		cout << "Insira o preco: ";		
-		getline(cin, p);		
-		try {
-			livros[top].preco = stod(p);
-		} catch (exception &e) {
-			livros[top].preco = 0.;
-			cout << "Voce inseriu caractere(s). Preco = 0\n";
+			cout << "Insira o titulo: ";
+			cin.getline(livros[++top].titulo, 100);
+			cout << "Insira o autor: ";
+			cin.getline(livros[top].autor, 50);
+			cout << "Insira a editora: ";
+			cin.getline(livros[top].editora, 50);
+			cout << "Insira a edicao: ";
+			cin.getline(livros[top].edicao, 3);		
+			cout << "Insira o ano: ";
+			cin.getline(livros[top].ano, 5);
+			cout << "Insira o numero de paginas: ";
+			cin.getline(livros[top].paginas, 5);
+			cout << "Insira o preco: ";		
+			getline(cin, p);		
+			try {
+				livros[top].preco = stod(p);
+			} catch (exception &e) {
+				livros[top].preco = 0.;
+				cout << "Voce inseriu caractere(s). Preco = 0\n";
+				system("pause");
+			}
+			
+			sort(livros, top + 1);
+			
+			cout << "Deseja incluir mais algum livro? (S/N): ";		
+			cin >> opcao;
+			cin.get();
+		} else {
+			cout << "CAPACIDADE DE ARMAZENAMENTO ESGOTADA" << endl
+				 << "Crie outro arquivo." << endl;
 			system("pause");
+			break;
 		}
 		
-		sort(livros, top + 1);
-		
-		cout << "Deseja incluir mais algum livro? (S/N): ";		
-		cin >> opcao;
-		cin.get();
 	} while(opcao == 's' || opcao == 'S');
 	
 	system("cls");
@@ -132,9 +138,12 @@ void listar() {
 			 << livros[i].ano << "; "
 			 << livros[i].paginas << " pag.; R$ "
 			 << livros[i].preco << endl;
+		total += livros[i].preco;
 	}
+	cout << endl;
+	cout << "Valor total em livros = R$ " << total << endl << endl;
 	
-	cout << "\n";
+	total = 0;
 }
 
 void editar() {
@@ -196,15 +205,15 @@ void editar() {
 				break;
 			case '4':
 				cout << "Insira a nova edicao: ";
-				cin.getline(livros[indice - 1].edicao, 3);
+				cin.getline(livros[indice - 1].edicao, 5);
 				break;
 			case '5': 
 				cout << "Insira o novo ano: ";
-				cin.getline(livros[indice - 1].ano, 5);
+				cin.getline(livros[indice - 1].ano, 8);
 				break;
 			case '6':
 				cout << "Insira o novo numero de paginas: ";
-				cin.getline(livros[indice - 1].paginas, 5);
+				cin.getline(livros[indice - 1].paginas, 8);
 				break;
 			case '7': 
 				cout << "Insira o novo preco: ";
@@ -284,11 +293,15 @@ void remover() {
 
 void titulo() {
 	cout << "***********CRUD_BIBLIOTECA************\n"
-		 << "********Administre seus livros********\n\n";
+		 << "********Administre seus livros********\n"
+		 << "***ate 5000 livros em cada arquivo****\n\n";
 }
 
 void carregar(ifstream& ifs) {
-	ifs.open("livros.dat", ios_base::in | ios_base::binary);
+	string file;
+	cout << "Insira o nome do arquivo: ";
+	getline(cin, file);
+	ifs.open(file, ios_base::in | ios_base::binary);
 	top = -1;
 	
 	if (!ifs) {
@@ -312,7 +325,10 @@ void carregar(ifstream& ifs) {
 }
 
 void salvar(ofstream& ofs) {
-	ofs.open("livros.dat", ios_base::out | ios_base::binary);
+	string file;
+	cout << "Insira o nome do arquivo: ";
+	getline(cin, file);
+	ofs.open(file, ios_base::out | ios_base::binary);
 	ofs.write((char*) &livros, sizeof(livro) * (top + 1));	
 	ofs.close();
 	system("cls");
