@@ -44,7 +44,6 @@ livro livros[5000];
 void sort(livro[], int);
 
 int top  = -1;
-double total = 0;
 
 int main() {
 	ifstream ifs;
@@ -93,11 +92,11 @@ void adicionar() {
 			cout << "Insira a editora: ";
 			cin.getline(livros[top].editora, 50);
 			cout << "Insira a edicao: ";
-			cin.getline(livros[top].edicao, 3);		
+			cin.getline(livros[top].edicao, 5);		
 			cout << "Insira o ano: ";
-			cin.getline(livros[top].ano, 5);
+			cin.getline(livros[top].ano, 8);
 			cout << "Insira o numero de paginas: ";
-			cin.getline(livros[top].paginas, 5);
+			cin.getline(livros[top].paginas, 8);
 			cout << "Insira o preco: ";		
 			getline(cin, p);		
 			try {
@@ -130,6 +129,8 @@ void listar() {
 	system("cls");
 	titulo();
 	
+	double total = 0;
+	
 	for (int i = 0; i <= top; i++) {
 		cout << (i + 1) << " - " << livros[i].titulo << "; " 
 			 << livros[i].autor << "; Editora "
@@ -142,8 +143,6 @@ void listar() {
 	}
 	cout << endl;
 	cout << "Valor total em livros = R$ " << total << endl << endl;
-	
-	total = 0;
 }
 
 void editar() {
@@ -331,6 +330,26 @@ void salvar(ofstream& ofs) {
 	ofs.open(file, ios_base::out | ios_base::binary);
 	ofs.write((char*) &livros, sizeof(livro) * (top + 1));	
 	ofs.close();
+	
+	ofs.open("livros.txt");	
+	ofs << file << endl << endl;
+	
+	double total = 0;
+	
+	for (int i = 0; i <= top; i++) {
+		ofs << (i + 1) << " - " << livros[i].titulo << "; " 
+			 << livros[i].autor << "; Editora "
+			 << livros[i].editora << "; "
+			 << livros[i].edicao << "a ed.; "
+			 << livros[i].ano << "; "
+			 << livros[i].paginas << " pag.; R$ "
+			 << livros[i].preco << endl;
+		total += livros[i].preco;
+	}
+	ofs << endl;
+	ofs << "Valor total em livros = R$ " << total << endl << endl;
+	ofs.close();
+	
 	system("cls");
 	titulo();
 }

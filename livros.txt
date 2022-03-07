@@ -1,0 +1,38 @@
+livros.dat
+
+1 - asp guia de consulta r pida; Rubens Prates; Editora Novatec; 1a ed.; 2000; 128 pag.; R$ 8
+2 - ate¡smo uma breve introdu‡Æo; Julian Baggini; Editora L&PM; 1a ed.; 2016; 141 pag.; R$ 20
+3 - bash guia de consulta r pida; Joel Saade; Editora Novatec; 1a ed.; 2001; 96 pag.; R$ 8
+4 - c++ como programar; Paul e Harvey Deitel; Editora Pearson; 5a ed.; 2006; 1163 pag.; R$ 400
+5 - c++ guia de consulta r pida; Joel Saade; Editora Novatec; 2a ed.; 2006; 127 pag.; R$ 20
+6 - c++ stl guia de consulta r pida; Joel Saade; Editora Novatec; 1a ed.; 2006; 136 pag.; R$ 20
+7 - cole‡Æo schaum manual de f¢rmulas e tabelas matem ticas; Murray R. Spiegel; Editora McGraw-Hill; 2a ed.; 1973; 270 pag.; R$ 30
+8 - cole‡Æo schaum matem tica financeira; Frank Ayres Jr.; Editora McGrall-Hill; 2a ed.; 1971; 306 pag.; R$ 20
+9 - cole‡Æo schaum princ¡pios digitais; Roger L. Tokheim; Editora Makron Books; 3a ed.; 1996; 533 pag.; R$ 20
+10 - cole‡Æo schaum programa‡Æo com java; John Hubbard; Editora Bookman; 2a ed.; 2006; 328 pag.; R$ 80
+11 - cole‡Æo schaum programa‡Æo em c++; John R. Hubbard; Editora Bookman; 2a ed.; 2003; 392 pag.; R$ 70
+12 - cole‡Æo schaum transformadas de laplace; Murray R. Spiegel; Editora McGraw-Hill; 2a ed.; 1975; 344 pag.; R$ 25
+13 - css; Luis Gustavo Amaral; Editora Novatec; 3a ed.; 2009; 120 pag.; R$ 20
+14 - elementos de an lise num‚rica; S. D. Conte; Editora Globo; 1a ed.; 1977; 327 pag.; R$ 10
+15 - escuridÆo total sem estrelas; Stephen King; Editora Suma de Letras; 1a ed.; 2015; 390 pag.; R$ 30
+16 - estruturas de dados e algoritmos com javascript; Loiane Groner; Editora Novatec/Packt; 2a ed.; 2021; 406 pag.; R$ 60
+17 - fregmentos do horror; Junji Ito; Editora Darkside; 1a ed.; 2017; 248 pag.; R$ 30
+18 - fundamentos de matem tica elementar geometria espacial; Osvaldo Dolce e Jos‚ Nicolau Pompeo; Editora Atual; 5a ed.; 1993; 439 pag.; R$ 100
+19 - guia pr tico da autosuficiˆncia; John Seymour; Editora WMF martins Fontes; 6a ed.; 2011; 256 pag.; R$ 50
+20 - html 4 guia de consulta r pida; Marcelo Silveira e Rubens Prates; Editora Novatec; 1a ed.; 2001; 128 pag.; R$ 15
+21 - java 6 guia de consulta r pida; Peter Jandl Jr.; Editora Novatec; 1a ed.; 2009; 144 pag.; R$ 20
+22 - java como programar; Paul e Harvey Deitel; Editora Pearson; 10a ed.; 2017; 934 pag.; R$ 500
+23 - java e xml guia de consulta r pida; Renˆ Rodrigues Veloso; Editora Novatec; 2a ed.; 2007; 109 pag.; R$ 20
+24 - javascript guia de consulta r pida; Edgard B. Damiani; Editora Novatec; 3a ed.; 2006; 144 pag.; R$ 20
+25 - lingua latina per se illustrata familia romana; Hans H. Orberg; Editora Focus; 2a ed.; 2011; 328 pag.; R$ 350
+26 - l¢gica indutiva e probabilidade; Newton da Costa; Editora Hucitec; 3a ed.; 2008; 89 pag.; R$ 30
+27 - l¢gica matem tica; Rog‚rio Augusto dos Santos Fajardo; Editora Edusp; 1a ed.; 2017; 208 pag.; R$ 30
+28 - l¢gica uma introdu‡Æo voltada para as ciˆncias; Stan Baronett; Editora Bookman; 1a ed.; 2009; 563 pag.; R$ 100
+29 - perl guia de consulta r pida; D‚cio Jr.; Editora Novatec; 1a ed.; 2000; 128 pag.; R$ 18
+30 - php 5 guia da consulta r pida; Juliano Niederauer; Editora Novatec; 3a ed.; 2004; 144 pag.; R$ 20
+31 - probabilidade aplica‡äes … estat¡stica; Paul L. Meyer; Editora LTC; 2a ed.; 1983; 426 pag.; R$ 80
+32 - relatividade; Russel Stannard; Editora L&PM; 1a ed.; 2013; 126 pag.; R$ 10
+33 - xml guia de consulta rapida; Ot vio C. D‚cio; Editora Novatec; 1a ed.; 2000; 96 pag.; R$ 8
+
+Valor total em livros = R$ 2242
+
