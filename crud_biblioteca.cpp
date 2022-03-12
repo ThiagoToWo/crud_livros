@@ -21,15 +21,7 @@ using std::ifstream;
 using std::ofstream;
 using std::ios_base;
 
-void titulo();
-void adicionar();
-void listar();
-void editar();
-void remover();
-void carregar(ifstream&);
-void salvar(ofstream&);
-
-struct livro {
+struct livro { // estrutuda de dados livro
 	char titulo[100];
 	char autor[50];
 	char editora[50];
@@ -39,16 +31,22 @@ struct livro {
 	double preco;
 };
 
-livro livros[5000];
+livro livros[5000]; // banco de dados de livros
+int top  = -1; // o último índice com livros no bd
 
-void sort(livro[], int);
-
-int top  = -1;
+void titulo(); // imprime o título do programa
+void adicionar(); // adiciona elementos no bd
+void listar(); // lista os elementos do bd
+void editar(); // edita os atributos de um elemento do bd
+void remover(); // apaga um elemento do bd
+void carregar(ifstream&); // carrega um arquivo de livros salvo
+void salvar(ofstream&); // salva um arquivo de livros
+void sort(livro[], int); // organiza os livros por título em ordem alfabética
 
 int main() {
-	ifstream ifs;
-	ofstream ofs;
-	char opcao;
+	ifstream ifs; // stream de entrada (carregar)
+	ofstream ofs; // stream de saída (salvar)
+	char opcao; // opção de escolha entre as funções
 	
 	titulo();
 	
@@ -82,7 +80,7 @@ void adicionar() {
 	char opcao;
 		
 	do {
-		if (top < 4999) {
+		if (top < 4999) { // se o bd não está cheio
 			string p;
 		
 			cout << "Insira o titulo: ";
@@ -112,7 +110,7 @@ void adicionar() {
 			cout << "Deseja incluir mais algum livro? (S/N): ";		
 			cin >> opcao;
 			cin.get();
-		} else {
+		} else { // se o bd está cheio
 			cout << "CAPACIDADE DE ARMAZENAMENTO ESGOTADA" << endl
 				 << "Crie outro arquivo." << endl;
 			system("pause");
@@ -129,7 +127,7 @@ void listar() {
 	system("cls");
 	titulo();
 	
-	double total = 0;
+	double total = 0; 
 	
 	for (int i = 0; i <= top; i++) {
 		cout << (i + 1) << " - " << livros[i].titulo << "; " 
@@ -161,7 +159,7 @@ void editar() {
 			indice = stoi(i);
 		} catch (exception &e) {
 			indice = 0;
-			cout << "Voce inseriu caractere(s). Voltando ao inicio...\n";
+			cout << "Voce nao inseriu numeros. Voltando ao inicio...\n";
 			system("pause");
 		}
 		
@@ -174,7 +172,7 @@ void editar() {
 				indice = stoi(i);
 			} catch (exception &e) {
 				indice = 0;
-				cout << "Voce inseriu caractere(s). Voltando ao inicio...\n";
+				cout << "Voce nao inseriu numeros. Voltando ao inicio...\n";
 				system("pause");
 			}
 		}
