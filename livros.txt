@@ -10,351 +10,385 @@ livros.dat
 8 - a arte da guerra (mangá); Sun Tzu; Editora L&PM; 1a ed.; 2018; 208 pag.; R$ 10
 9 - a arte de falar em público; Osmar Barbosa; Editora Ediouro; 1a ed.; ; 296 pag.; R$ 10
 10 - a arte de resolver problemas; G. Polya; Editora Interciência; 1a ed.; 2006; 203 pag.; R$ 20
-11 - a bíblia de jerusalém; ; Editora Edições Paulinas; 1a ed.; 1981; 1161 pag.; R$ 150
-12 - a bíblia do mma; Anderson Silva; Editora Universo dos Livros; 1a ed.; 2012; 368 pag.; R$ 60
-13 - a economia em linguagem matemática; Robert C. Bingham; Editora Zahar Editores; 1a ed.; 1975; 500 pag.; R$ 20
-14 - a história de deus; ; Editora Ediouro; 1a ed.; ; 129 pag.; R$ 5
-15 - a imagem do pensamento libras; Sueli Ramalho Segala e Catarina Kiguti Kojima; Editora Escala; 2a ed.; 2019; 399 pag.; R$ 50
-16 - a origem das espécies; Charles Darwin; Editora Martin Claret; 1a ed.; 2014; 572 pag.; R$ 30
-17 - a prova de godel; Ernest Nagel e James R. Newman; Editora Perspectiva; 2a ed.; 2012; 100 pag.; R$ 20
-18 - a revolução russa; André Diniz; Editora Escala Educacional; 1a ed.; 2008; 48 pag.; R$ 5
-19 - a tempestade; William Shakespeare; Editora Lafonte; 1a ed.; 2011; 143 pag.; R$ 10
-20 - abacedário da álgebra vol. 1; Darcy Leal de Menezes; Editora Livraria Nobel; 5a ed.; 1975; 483 pag.; R$ 10
-21 - abacedário da álgebra vol. 2; Darcy Leal de Menezes; Editora Livraria Nobel; 9a ed.; 1975; 674 pag.; R$ 10
-22 - aikido a esfera dinâmica; Adele Westbrook e Oscar Ratti; Editora Madras; 1a ed.; 2006; 398 pag.; R$ 200
-23 - aikido evolução passo a passo; Moriteru Ueshiba; Editora Pensamento; 1a ed.; 2008; 205 pag.; R$ 50
-24 - algebra linear; Alfredo Steinbruch e Paulo Winterle; Editora Pearson Makron Books; 2a ed.; 2009; 583 pag.; R$ 35
-25 - algebra linear e aplicações; Carlos A. Callioli... [et al.]; Editora Atual; 6a ed.; 1990; 352 pag.; R$ 50
-26 - algebra linear exercícios e soluções; Ralph Costa Teixeira; Editora IMPA; 3a ed.; 2014; 438 pag.; R$ 25
-27 - almanaque dos cães; ; Editora Escala; 1a ed.; 2011; 451 pag.; R$ 10
-28 - anarquismo e liberdade na prática; Carlos Algusto Addor, Lynn Hunt e Eddy Stols; Editora Revista de História da Biblioteca Nacional; 1a ed.; 2013; 98 pag.; R$ 5
-29 - análise real vol. 1: funções de uma variável; Elon Lages Lima; Editora IMPA; 8a ed.; 2006; 189 pag.; R$ 10
-30 - aprenda taekwon-do; Woo-Jae Lee; Editora Brasil-América; 1a ed.; 1988; 319 pag.; R$ 1500
-31 - aprendendo boxe; Ricardo U. S. Unanian e Luiz Fernando C. Silva; Editora Lince; 1a ed.; 2006; 88 pag.; R$ 10
-32 - aprendendo xadrez; Stefan Bernwallner; Editora Ciência Moderna; 1a ed.; 2005; 230 pag.; R$ 30
-33 - arte de ganhar dinheiro: trabalha para ti; ; Editora Livraria Civilização; 1a ed.; 1988; 702 pag.; R$ 100
-34 - arte e técnica do charadismo; Sylvio Alves; Editora Ediouro; 1a ed.; ; 126 pag.; R$ 10
-35 - arte no xadrez; Barnie F. Winkelman; Editora Hemus; 1a ed.; ; 157 pag.; R$ 15
-36 - artes marciais mistas: os segredos do mma; Mickey Dimic com Cristopher Miller; Editora Madras; 1a ed.; 2011; 240 pag.; R$ 25
-37 - as crônicas de gelo e fogo vol. 1: a guerra dos tronos; George R. R. Martin; Editora Leya; 1a ed.; 2012; 1066 pag.; R$ 20
-38 - as crônicas de gelo e fogo vol. 2: a fúria dos reis; George R. R. Martin; Editora Leya; 1a ed.; 2012; 1190 pag.; R$ 20
-39 - as crônicas de gelo e fogo vol. 3: a tormenta de espadas; George R. R. Martin; Editora Leya; 1a ed.; 2012; 1474 pag.; R$ 20
-40 - as crônicas de gelo e fogo vol. 4: o festim dos corvos; George R. R. Martin; Editora Leya; 1a ed.; 2012; 1099 pag.; R$ 20
-41 - atemis e jiu-jitsu; Robert Lasserre; Editora Mestre Jou; 2a ed.; 1976; 249 pag.; R$ 200
-42 - ateísmo uma breve introdução; Julian Baggini; Editora L&PM; 1a ed.; 2016; 141 pag.; R$ 20
-43 - atlas de bolso de anatomia humana; Heinz Feneis e Wolfgang Dauber; Editora Manole; 4a ed.; 2002; 493 pag.; R$ 20
-44 - bechara para concursos: enem, vestibular e todo tipo de prova de portugês; Evanildo Bechara; Editora Nova Fronteira; 1a ed.; 2019; 736 pag.; R$ 30
-45 - bib. júlio verne: a escola dos robinsons; Júlio Verne; Editora RBA; 1a ed.; 2003; 288 pag.; R$ 20
-46 - bib. júlio verne: a ilha misteriosa o abandonado; Júlio Verne; Editora RBA; 1a ed.; 2003; 303 pag.; R$ 20
-47 - bib. júlio verne: a ilha misteriosa o segredo da ilha; Júlio Verne; Editora RBA; 1a ed.; 2003; 284 pag.; R$ 20
-48 - bib. júlio verne: a ilha misteriosa os nálfragos; Júlio Verne; Editora RBA; 1a ed.; 2003; 304 pag.; R$ 20
-49 - bib. júlio verne: a volta ao mundo em 80 dias; Júlio Verne; Editora RBA; 1a ed.; 2003; 255 pag.; R$ 20
-50 - bib. júlio verne: as atribulações de um chinês na china; Júlio Verne; Editora RBA; 1a ed.; 2003; 207 pag.; R$ 20
-51 - bib. júlio verne: cinco semanas em balão; Júlio Verne; Editora RBA; 1a ed.; 2003; 304 pag.; R$ 20
-52 - bib. júlio verne: miguel strogoff; Júlio Verne; Editora RBA; 1a ed.; 2003; 351 pag.; R$ 20
-53 - bib. júlio verne: os filhos do capitão grant na américa do sul; Júlio Verne; Editora RBA; 1a ed.; 2003; 303 pag.; R$ 20
-54 - bib. júlio verne: os filhos do capitão grant na austrália meridional; Júlio Verne; Editora RBA; 1a ed.; 2003; 303 pag.; R$ 20
-55 - bib. júlio verne: os filhos do capitão grant no oceano pacífico; Júlio Verne; Editora RBA; 1a ed.; 2003; 270 pag.; R$ 20
-56 - bib. júlio verne: os quinhentos milhões da begun; Júlio Verne; Editora RBA; 1a ed.; 2003; 254 pag.; R$ 20
-57 - bib. júlio verne: um herói de quinze anos; Júlio Verne; Editora RBA; 1a ed.; 2002; 396 pag.; R$ 20
-58 - bib. júlio verne: viagem ao centro da terra; Júlio Verne; Editora RBA; 1a ed.; 2003; 268 pag.; R$ 20
-59 - bib. júlio verne: à roda da lua; Júlio Verne; Editora RBA; 1a ed.; 2003; 254 pag.; R$ 20
-60 - bioquímica; Klaus Dose; Editora EPU-Springer-EDUSP; 1a ed.; 1982; 296 pag.; R$ 10
-61 - boliche em 10 lições; Don Carter; Editora Best Seller; 1a ed.; 1964; 108 pag.; R$ 20
-62 - c completo e total; Herbert Schildt; Editora Pearson; 3a ed.; 2010; 827 pag.; R$ 400
-63 - c++ como programar; Paul e Harvey Deitel; Editora Pearson; 5a ed.; 2006; 1163 pag.; R$ 400
-64 - c.q.d explicações e demonstrações sobre conceitos, teoremas e fórmulas essenciais da geometria; Gilberto G. Garbi; Editora Livraria da Física; 1a ed.; 2010; 403 pag.; R$ 30
-65 - calculo diferencial e integral de funções de várias variáveis; Diomara Pinto e Maria Cândida Ferreira Morgado; Editora UFRJ; 3a ed.; 2009; 348 pag.; R$ 35
-66 - calculo diferencial e integral vol. 2; Richard Courant; Editora Globo; 1a ed.; 1963; 683 pag.; R$ 25
-67 - calculo tensorial; Elon Lages Lima; Editora IMPA; 3a ed.; 2012; 248 pag.; R$ 20
-68 - capoeira sem mestre; Lamrtine P. da Costa; Editora Ediouro; 1a ed.; ; 102 pag.; R$ 25
-69 - ciência e fé: milagres e mensagens; Nilson Dimarzio; Editora Nova Gráfica; 1a ed.; 2005; 190 pag.; R$ 5
-70 - ciência política; Paulo Bonavides; Editora Fundação Getúlio Vargas; 2a ed.; 1974; 627 pag.; R$ 30
-71 - ciências para pais e filhos; Carol Vorderman; Editora Publifolha; 1a ed.; 2013; 256 pag.; R$ 50
-72 - clássicos em quadrinhos: drácula; Bram Stoker; Editora Rai; 1a ed.; 2003; 145 pag.; R$ 20
-73 - clássicos em quadrinhos: sherlock holmes; Arthur Conan Doyle; Editora Rai; 1a ed.; 2002; 144 pag.; R$ 20
-74 - coleção enem você na universidade: ciências da natureza; ; Editora Alaúde; 1a ed.; 2017; 95 pag.; R$ 5
-75 - coleção enem você na universidade: ciências humanas e suas tecnologias; ; Editora Alaúde; 1a ed.; 2017; 95 pag.; R$ 5
-76 - coleção enem você na universidade: linguagens, códigos e suas tecnologias; ; Editora Alaúde; 1a ed.; 2017; 95 pag.; R$ 5
-77 - coleção enem você na universidade: matemática e suas tecnologias; ; Editora Alaúde; 1a ed.; 2017; 95 pag.; R$ 5
-78 - coleção objetivo fichas-resumo 1; ; Editora CERED; 1a ed.; ; 208 pag.; R$ 30
-79 - coleção objetivo fichas-resumo 2; ; Editora CERED; 1a ed.; ; 370 pag.; R$ 30
-80 - coleção profmat aritmética; Abramo Hefez; Editora SBM; 1a ed.; 2014; 338 pag.; R$ 30
-81 - coleção profmat geometria; Antônio Caminha Muniz Neto; Editora SBM; 1a ed.; 2013; 502 pag.; R$ 50
-82 - coleção profmat matemática discreta; Augusto C. Morgado e Paulo Cezar P. Carvalho; Editora SBM; 1a ed.; 2013; 204 pag.; R$ 30
-83 - coleção profmat números e funções reais; Elon Lages Lima; Editora SBM; 1a ed.; 2013; 297 pag.; R$ 30
-84 - coleção schaum circuitos elétricos; Joseph A. Edminister; Editora McGrall-Hill; 3a ed.; 1972; 442 pag.; R$ 20
-85 - coleção schaum elementos orgânicos de máquinas; Hall, Holowenko e Laughlin; Editora McGrall-Hill; 1a ed.; 1968; 588 pag.; R$ 20
-86 - coleção schaum eletricidade básica; Milton Gussow; Editora Pearson Makron Books; 2a ed.; 1997; 639 pag.; R$ 30
-87 - coleção schaum engenharia de software; David A. Gustafson; Editora Bookman; 1a ed.; 2003; 207 pag.; R$ 25
-88 - coleção schaum equações diferenciais; Frank Ayres Jr.; Editora LTC; 1a ed.; 1958; 397 pag.; R$ 30
-89 - coleção schaum estatística; Murray R. Spiegel; Editora McGrall-Hill; 1a ed.; 1977; 580 pag.; R$ 20
-90 - coleção schaum física; Daniel Schaum; Editora LTC; 1a ed.; 1946; 280 pag.; R$ 10
-91 - coleção schaum física geral; Schaum/Van Der Merwe; Editora McGrall-Hill; 2a ed.; 1975; 430 pag.; R$ 15
-92 - coleção schaum geometria analítica; Joseph H. Kindle; Editora McGrall-Hill; 2a ed.; 1974; 244 pag.; R$ 20
-93 - coleção schaum lógica; John Nolt e Dennis Rohatyn; Editora Makron Books; 1a ed.; 1991; 596 pag.; R$ 200
-94 - coleção schaum macroeconomia; Eugene A. Diulio; Editora McGrall-Hill; 2a ed.; 1977; 268 pag.; R$ 40
-95 - coleção schaum manual de fórmulas e tabelas matemáticas; Murray R. Spiegel; Editora McGrall-Hill; 2a ed.; 1973; 270 pag.; R$ 30
-96 - coleção schaum matemática financeira; Frank Ayres Jr.; Editora McGrall-Hill; 2a ed.; 1971; 306 pag.; R$ 20
-97 - coleção schaum matemática finita; Seymour Lipschutz; Editora McGrall-Hill; 3a ed.; 1977; 409 pag.; R$ 20
-98 - coleção schaum mecânica dos fluidos e hidráulica; Ranald V. Giles; Editora McGrall-Hill; 2a ed.; 1978; 401 pag.; R$ 25
-99 - coleção schaum princípios digitais; Roger L. Tokheim; Editora Makron Books; 3a ed.; 1996; 533 pag.; R$ 20
-100 - coleção schaum probabilidade; Seymour Lipschutz; Editora McGrall-Hill; 2a ed.; 1972; 228 pag.; R$ 20
-101 - coleção schaum programação com java; John Hubbard; Editora Bookman; 2a ed.; 2006; 328 pag.; R$ 80
-102 - coleção schaum programação em c++; John R. Hubbard; Editora Bookman; 2a ed.; 2003; 392 pag.; R$ 70
-103 - coleção schaum química geral; Schaum/Rosenberg; Editora McGrall-Hill; 2a ed.; 1979; 372 pag.; R$ 30
-104 - coleção schaum resistência dos materiais; William A. Nash; Editora McGrall-Hill; 3a ed.; 1982; 521 pag.; R$ 40
-105 - coleção schaum teoria dos conjuntos; Seymour Lipschutz; Editora McGrall-Hill; 4a ed.; 1974; 337 pag.; R$ 20
-106 - coleção schaum topologia geral; Seymour Lipschutz; Editora McGrall-Hill; 2a ed.; 1973; 301 pag.; R$ 30
-107 - coleção schaum transformadas de laplace; Murray R. Spiegel; Editora McGraw-Hill; 2a ed.; 1975; 344 pag.; R$ 25
-108 - coleção schaum trigonometria; Frank Ayres Jr.; Editora McGrall-Hill; 1a ed.; 1976; 203 pag.; R$ 30
-109 - coleção schaum álgebra linear; Seymour Lopschutz; Editora McGrall-Hill; 2a ed.; 1973; 403 pag.; R$ 20
-110 - como construir uma casa; Roberto Chaves; Editora Ediouro; 1a ed.; 1991; 157 pag.; R$ 10
-111 - como fazer quase tudo; ; Editora Reader's Digest; 1a ed.; 1997; 471 pag.; R$ 30
-112 - como fazer uma monografia; Délcio Vieira Salomon; Editora Interlivros; 5a ed.; 1977; 317 pag.; R$ 20
-113 - completo manual de jogos de cartas; Ely Culbertson; Editora Ibrasa; 1a ed.; 1962; 400 pag.; R$ 30
-114 - computabilidade e lógica; George S. Boolos... [et al.]; Editora Unesp; 1a ed.; 2012; 435 pag.; R$ 100
-115 - computabilidade, funções computáveis, lógica e fund. da matemática; Walter Carnielli e Richard L. Epstein; Editora UNESP; 2a ed.; 2009; 415 pag.; R$ 100
-116 - compêndio de religiões e espiritualidade; Leonardo A. Marques e Emilia A. dos S. Coutinho; Editora Öcone; 1a ed.; 2010; 648 pag.; R$ 30
-117 - consertos rápidos dos defeitos na casa; Arnaldo Belmiro; Editora Ediouro; 1a ed.; 1986; 137 pag.; R$ 5
-118 - contabilidade; Maria do Socorro Gomes de Amorim; Editora Öcone; 1a ed.; 2008; 736 pag.; R$ 10
-119 - contabilidade pública; Maria do Socorro Gomes de Amorim; Editora Öcone; 1a ed.; 2008; 523 pag.; R$ 10
-120 - contos de vampiros clássicos escolhidos; Flávio Moreira da Costa; Editora Ediouro; 1a ed.; 2009; 437 pag.; R$ 5
-121 - coordenadas no plano; Elon Lages Lima; Editora SBM; 5a ed.; 2011; 329 pag.; R$ 20
-122 - copacabana; S. Lobo e Odyr; Editora Desiderata; 1a ed.; 2009; 206 pag.; R$ 5
-123 - curso de análise vol. 1; Elon Lages Lima; Editora IMPA; 12a ed.; 2006; 431 pag.; R$ 20
-124 - curso de análise vol. 2; Elon lages Lima; Editora IMPA; 1a ed.; 1981; 557 pag.; R$ 20
-125 - curso de damas brasileiras livro primeiro; W. Bakumenko; Editora Gráfica Urupês; 1a ed.; 1968; 128 pag.; R$ 100
-126 - curso de eletrotécnica vol. 1 (livros 1, 2 e 3); Chester L. Dawes; Editora Globo; 14a ed.; 1976; 762 pag.; R$ 60
-127 - curso de eletrotécnica vol. 2 (livros 4, 5 e 6); Chester L. Daves; Editora Globo; 14a ed.; 1976; 700 pag.; R$ 60
-128 - curso de física básica 1: mecânica; H. Moysés Nussenzveig; Editora Edgar Blucher; 4a ed.; 2002; 328 pag.; R$ 60
-129 - curso de física básica 2: fluidos, oscilações e ondas, calor; H. Moysés Nussenzveig; Editora Edgar Blucher; 4a ed.; 2002; 314 pag.; R$ 60
-130 - curso de física básica 3: eletromagnetismo; H. Moysés Nussenzveig; Editora Edgar Blucher; 1a ed.; 1997; 323 pag.; R$ 60
-131 - curso de física básica 4: óptica, relatividade, física quântica; H. Moysés Nussenzveig; Editora Edgar Blucher; 1a ed.; 1998; 437 pag.; R$ 60
-132 - curso de física: teoria do campo; L. Landau e E. Lifchitz; Editora Hemus; 1a ed.; ; 457 pag.; R$ 25
-133 - curso de matemática moderna; Antônio Marmo de Oliveira e Agostinho Silva; Editora Lisa; 1a ed.; ; 740 pag.; R$ 30
-134 - códigos corretores de erros; Abramo Hefez e Maria Lúcia T. Villela; Editora IMPA; 2a ed.; 2008; 216 pag.; R$ 20
-135 - defesa pessoal para briga de rua; Bruce Tegner; Editora Ediouro; 1a ed.; 1965; 63 pag.; R$ 50
-136 - desenvolva jogos com html5 canvas e javascript; Éderson Cássio; Editora Casa do Código; 1a ed.; 2018; 213 pag.; R$ 60
-137 - dicionário de administração de medicamentos na enfermagem; ; Editora Epub; 9a ed.; 2013; 710 pag.; R$ 10
-138 - dicionário de matemática; Luiz F. Cardoso; Editora Expressão e Cultura; 1a ed.; 2001; 336 pag.; R$ 3
-139 - dicionário gramatical de latim; Janete M. Garcia e Jane Adriana R. O. de Castro; Editora UnB; 1a ed.; 2003; 168 pag.; R$ 25
-140 - didática da matemática; Beatriz Helena Magno; Editora Edições Consultor; 1a ed.; 1993; 150 pag.; R$ 10
-141 - direito constitucional e direito administrativo; Maria do Socorro Gomes de Amorim; Editora Öcone; 1a ed.; 2008; 859 pag.; R$ 20
-142 - direito penal: questões de concurso comentadas; Samir José Caetano Martins; Editora Campus/Elsevier; 4a ed.; 2009; 368 pag.; R$ 10
-143 - direito processual civil; Márcia Conceição Alves Dinamarco; Editora Campus/Elsevier; 1a ed.; 2009; 329 pag.; R$ 10
-144 - divertimentos matemáticos; Martin Gardner; Editora Ibrasa; 4a ed.; 1998; 189 pag.; R$ 25
-145 - dona benta comer bem; ; Editora Companhia Editora Nacional; 76a ed.; 2007; 1101 pag.; R$ 100
-146 - dor: o que todo médico deve saber; José Paulo Drummond; Editora Atheneu; 1a ed.; 2006; 106 pag.; R$ 20
-147 - elementos de análise numérica; S. D. Conte; Editora Globo; 1a ed.; 1977; 327 pag.; R$ 10
-148 - elementos de geometria diferencial; Cesar Dacoro Neto e Nilza Rocha Leal; Editora Interciência; 2a ed.; 1978; 148 pag.; R$ 15
-149 - elementos de lógica; Primo Nunes de Andrade; Editora Ao Livro Técnico; 1a ed.; 1972; 244 pag.; R$ 20
-150 - elementos de álgebra; L. H. Jacy Monteiro; Editora Ao Livro Técnico; 1a ed.; 1971; 552 pag.; R$ 20
-151 - enciclopédia da musculação; àscar Morán Esquerdo; Editora LEAP; 1a ed.; 2010; 345 pag.; R$ 70
-152 - enciclopédia de jogos; J. B. Pereira de Almeida; Editora ; 1a ed.; 1975; 288 pag.; R$ 10
-153 - enciclopédia dos pontos que curam; Dr. Roger Dalet; Editora Europa-América; 1a ed.; ; 370 pag.; R$ 20
-154 - enciclopédia técnica universal globo vol. vii, tomo v: equações diferenciais e aplicações; J. Quinet; Editora Globo; 1a ed.; 1970; 264 pag.; R$ 10
-155 - encontro com a matemática; Lars Garding; Editora Universidade de Brasília; 1a ed.; 1981; 323 pag.; R$ 50
-156 - ensaios analíticos; Mario Henrique Simonsen; Editora Fundação Getúlio Vargas; 1a ed.; 1994; 426 pag.; R$ 20
-157 - entendendo acumpuntura; Stephen J. Birch e Robert L. Felt; Editora Roca; 1a ed.; 2002; 420 pag.; R$ 30
-158 - entendendo ética: um guia ilustrado; Dave Robinson e Chris Garratt; Editora Leya; 1a ed.; 2013; 176 pag.; R$ 30
-159 - eram os deuses astronautas?; Erich von Daniken; Editora Círculo do Livro; 1a ed.; 1968; 181 pag.; R$ 20
-160 - escuridão total sem estrelas; Stephen King; Editora Suma de Letras; 1a ed.; 2015; 390 pag.; R$ 30
-161 - esperanto sem mestre; Francisco Valdomiro Lorenz; Editora FEB; 7a ed.; 1978; 396 pag.; R$ 60
-162 - estatuto dos funcionários públicos civis do estado do rio de janeiro; ; Editora AnLuiRenan; 11a ed.; 2012; 236 pag.; R$ 10
-163 - estruturas de dados e algoritmos com javascript; Loiane Groner; Editora Novatec/Packt; 2a ed.; 2021; 406 pag.; R$ 60
-164 - etaque e contra-ataque no xadrez; Fred Reinfeld; Editora Ibrasa; 19a ed.; 2005; 168 pag.; R$ 25
-165 - fabulas de esopo; Esopo; Editora Martin Claret; 1a ed.; 2004; 207 pag.; R$ 5
-166 - fabulas de la fontaine; La Fountaine; Editora Martin Claret; 1a ed.; 2006; 304 pag.; R$ 5
-167 - fantástica fábrica de brinquedos com sucata; Heliana Brandão; Editora O Sol; 1a ed.; 2004; 168 pag.; R$ 20
-168 - fique por dentro da física moderna; John Gribbin; Editora Cosac e Naify; 2a ed.; 2002; 192 pag.; R$ 20
-169 - forças de elite: técnicas de sobrevivência; Patrick Wilson; Editora Escala; 1a ed.; 2010; 48 pag.; R$ 20
-170 - fregmentos do horror; Junji Ito; Editora Darkside; 1a ed.; 2017; 248 pag.; R$ 30
-171 - fund. de matemática elementar 01: conjuntos e funções; Gelson Iezzi e Carlos Murakami; Editora Atual; 8a ed.; 2005; 373 pag.; R$ 50
-172 - fund. de matemática elementar 02: logaritmos; Gelson Iezzi... [et al.]; Editora Atual; 9a ed.; 2004; 198 pag.; R$ 30
-173 - fund. de matemática elementar 03: trigonometria; Gelson Iezzi; Editora Atual; 7a ed.; 1993; 303 pag.; R$ 50
-174 - fund. de matemática elementar 04: sequências, matrizes, determinantes e sistemas ; Gelson Iezzi e SAmuel Hazzan; Editora Atual; 2a ed.; 1977; 228 pag.; R$ 50
-175 - fund. de matemática elementar 05: combinatória e probabilidade; Samuel Hazzan; Editora Atual; 4a ed.; 1981; 148 pag.; R$ 30
-176 - fund. de matemática elementar 06: complexos, polinômios e equações; Gelson Iezzi; Editora Atual; 7a ed.; 2005; 250 pag.; R$ 50
-177 - fund. de matemática elementar 08: limites, derivadas, noções de integral; Gelson Iezzi... [et al.]; Editora Atual; 5a ed.; 1993; 269 pag.; R$ 100
-178 - fund. de matemática elementar 09: geometria plana; Osvaldo Dolce e José Nicolau Pompeo; Editora Atual; 8a ed.; 2005; 456 pag.; R$ 100
-179 - fund. de matemática elementar 10: geometria espacial; Osvaldo Dolce e José Nicolau Pompeo; Editora Atual; 5a ed.; 1993; 439 pag.; R$ 100
-180 - fundamentos de álgebra; Angela Vidigal... [et al.]; Editora UFMG; 1a ed.; 2005; 199 pag.; R$ 20
-181 - física 1: mecânica; GREF; Editora Edusp; 5a ed.; 1999; 329 pag.; R$ 30
-182 - física 2: física térmica e óptica; GREF; Editora Edusp; 3a ed.; 1996; 363 pag.; R$ 30
-183 - física 3: eletromagnetismo; GREF; Editora Edusp; 4a ed.; 2000; 438 pag.; R$ 30
-184 - física do dia a dia vol. 1; Regina Pinto de Carvalho; Editora Autêntica; 3a ed.; 2019; 86 pag.; R$ 20
-185 - física do dia a dia vol. 2; Regina Pinto de Carvalho; Editora Autêntica; 2a ed.; 2020; 86 pag.; R$ 20
-186 - física mais que divertida; Eduardo de Campos Valadares; Editora UFMG; 3a ed.; 2012; 327 pag.; R$ 30
-187 - física matemática; Eugene Butkov; Editora LTC; 1a ed.; 2011; 725 pag.; R$ 100
-188 - física parte I: mecânica, acústica e calor; Resnick e Halliday; Editora Ao Livro Técnico; 1a ed.; 1967; 704 pag.; R$ 20
-189 - física parte II: eletricidade, magnetismo e óptica; Halliday e Resnick; Editora Ao Livro Técnico; 1a ed.; 1966; 736 pag.; R$ 20
-190 - física quântica; R. Eisberg e R. Resnick; Editora Campus; 14a ed.; 1979; 928 pag.; R$ 100
-191 - geometria ii; A. C. Morgado, E. Wagner e M. Jorge; Editora Livraria Francisco Alves; 1a ed.; 1974; 286 pag.; R$ 10
-192 - geometrografia 1; Virgilio Athayde Pinheiro; Editora Bahiense; 1a ed.; 1974; 346 pag.; R$ 20
-193 - geometrografia 2; Virgilio Athayde Pinheiro; Editora Aula; 1a ed.; 1986; 290 pag.; R$ 40
-194 - golpe de estado um manual prático; Edward Luttwak; Editora Paz e Terra; 1a ed.; 1991; 199 pag.; R$ 20
-195 - grace jiu-jitsu; Hélio Grace; Editora Saraiva; 1a ed.; 2012; 273 pag.; R$ 300
-196 - gramática da língua francesa; Roberto Alvim Corrêa e Sary Hauser Steinberg; Editora FENAME; 3a ed.; 1982; 342 pag.; R$ 10
-197 - gramática, redação, literatura; Celso Puccinelli e Flávio A. C. Leite; Editora Didática Paulista; 1a ed.; ; 476 pag.; R$ 5
-198 - grandes contos h. p. lovecraft; H. P. Lovecraft; Editora Martin Claret; 1a ed.; 2015; 1174 pag.; R$ 50
-199 - gravelight; Marion Zimmer Bradley; Editora Rocco; 1a ed.; 2001; 397 pag.; R$ 5
-200 - grupos, corpos e teoria de galois; Paulo A. Martin; Editora Livraria da Física; 1a ed.; 2010; 429 pag.; R$ 30
-201 - guia completo da bíblia; ; Editora Reader's Digest; 1a ed.; 2003; 448 pag.; R$ 50
-202 - guia completo de jiu-jitsu; Bruce Tegner; Editora Record; 7a ed.; 2003; 170 pag.; R$ 30
-203 - guia completo de judô; Bruce Tegner; Editora Record; 15a ed.; 2002; 303 pag.; R$ 30
-204 - guia completo de jukadô; Bruce Tegner; Editora Record; 2a ed.; 1968; 261 pag.; R$ 30
-205 - guia completo de jukadô; Bruce Tegner; Editora Record; 2a ed.; 1968; 261 pag.; R$ 10
-206 - guia completo do karatê; Bruce Tegner; Editora Record; 14a ed.; 1998; 299 pag.; R$ 30
-207 - guia completo e prático jiu-jitsu autodefesa: método kawaishi; Marcial Serrano; Editora Clube de Autores; 1a ed.; 2012; 286 pag.; R$ 60
-208 - guia de consulta rápida asp; Rubens Prates; Editora Novatec; 1a ed.; 2000; 128 pag.; R$ 8
-209 - guia de consulta rápida bash; Joel Saade; Editora Novatec; 1a ed.; 2001; 96 pag.; R$ 8
-210 - guia de consulta rápida c++; Joel Saade; Editora Novatec; 2a ed.; 2006; 127 pag.; R$ 20
-211 - guia de consulta rápida c++ stl; Joel Saade; Editora Novatec; 1a ed.; 2006; 136 pag.; R$ 20
-212 - guia de consulta rápida comandos do linux; Roberto G. A. Veiga; Editora Novatec; 1a ed.; 2004; 144 pag.; R$ 20
-213 - guia de consulta rápida css; Luis Gustavo Amaral; Editora Novatec; 3a ed.; 2009; 120 pag.; R$ 20
-214 - guia de consulta rápida html4; Marcelo Silveira e Rubens Prates; Editora Novatec; 1a ed.; 2001; 128 pag.; R$ 15
-215 - guia de consulta rápida java 6; Peter Jandl Jr.; Editora Novatec; 1a ed.; 2009; 144 pag.; R$ 20
-216 - guia de consulta rápida java e xml; Renê Rodrigues Veloso; Editora Novatec; 2a ed.; 2007; 109 pag.; R$ 20
-217 - guia de consulta rápida javascript; Edgard B. Damiani; Editora Novatec; 3a ed.; 2006; 144 pag.; R$ 20
-218 - guia de consulta rápida perl; Décio Jr.; Editora Novatec; 1a ed.; 2000; 128 pag.; R$ 18
-219 - guia de consulta rápida php 5; Juliano Niederauer; Editora Novatec; 3a ed.; 2004; 144 pag.; R$ 20
-220 - guia de consulta rápida xml; Otávio C. Décio; Editora Novatec; 1a ed.; 2000; 96 pag.; R$ 8
-221 - guia de suplementos alimentares para atletas; Frédéric Delavier e Michael Gundill; Editora Manole; 1a ed.; 2009; 160 pag.; R$ 40
-222 - guia dos seus direitos; Josué Rios; Editora Globo; 12a ed.; 2002; 910 pag.; R$ 60
-223 - guia essensial do html5: usando jogos para aprender html5 e javascript; Jeanine Meyer; Editora Ciência Moderna; 1a ed.; 2011; 385 pag.; R$ 70
-224 - guia ilustrado zahar: vinhos do mundo todo; Suzan Keevil; Editora Zahar; 4a ed.; 2010; 688 pag.; R$ 50
-225 - guia mangá de estatística; Shin Takahashi, Iroha Inoue e Trend-Pro Co Ltd; Editora Novatec; 1a ed.; 2010; 215 pag.; R$ 20
-226 - guia prático da autosuficiência; John Seymour; Editora WMF martins Fontes; 6a ed.; 2011; 256 pag.; R$ 50
-227 - guia prático do karatê; Hirokazu Kanazawa; Editora Escala; 1a ed.; 2010; 232 pag.; R$ 100
-228 - hand shadows to be thrown upon the wall; Hery Bursill; Editora Dover; 1a ed.; 1967; 17 pag.; R$ 50
-229 - história da filosofia ocidental 1: a filosofia antiga; Bertrand Russell; Editora Nova Fronteira; 1a ed.; 2015; 363 pag.; R$ 20
-230 - história da filosofia ocidental 2: filosofia católica; Bertrand Russell; Editora Nova Fronteira; 1a ed.; 2015; 222 pag.; R$ 20
-231 - história da filosofia ocidental 3: a filosofia moderna; Bertrand Russell; Editora Nova Fronteira; 1a ed.; 2015; 405 pag.; R$ 20
-232 - história da matemática; Carl B. Boyer; Editora Edgar Blucher; 2a ed.; 1996; 496 pag.; R$ 50
-233 - hp 50g calculadora gráfica guia do usuário cap. 1 a 11 e cap. 12 a 27; ; Editora HP; 1a ed.; 2006; 918 pag.; R$ 0
-234 - imobilizações e deslocamentos em lutas de solo; Steve Scott; Editora Madras; 1a ed.; 2011; 278 pag.; R$ 80
-235 - inglês para pais e filhos; Carol Vorderman; Editora Publifolha; 1a ed.; 2013; 256 pag.; R$ 20
-236 - ingês básico; A. Ghio D.; Editora Pisa; 1a ed.; 1994; 259 pag.; R$ 200
-237 - iniciação à física matemática; J. López Gondar e R. Cipolatti; Editora IMPA; 2a ed.; 2011; 304 pag.; R$ 25
-238 - iniciação à matemática: um curso com problemas e soluções; Kreley I. M. Oliveira e Adán J. C. Fernandez; Editora SBM; 2a ed.; 2012; 291 pag.; R$ 5
-239 - instruções psicofônicas; Francisco Cândido Xavier; Editora FEB; 6a ed.; 1955; 289 pag.; R$ 5
-240 - introdução à cibernética; W. Ross Ashby; Editora Perspectiva; 1a ed.; 1970; 345 pag.; R$ 20
-241 - introdução à programação linear; R. Stansbury Stockton; Editora Atlas; 3a ed.; 1975; 136 pag.; R$ 5
-242 - introdução à resistência dos materiais; Octávio Gaspar Ricardo; Editora UNICAMP; 1a ed.; 1977; 412 pag.; R$ 30
-243 - introdução à topologia diferencial; Elon Lages Lima; Editora IMPA; 2a ed.; 2012; 166 pag.; R$ 20
-244 - java a referência completa; Herbert Schildt; Editora Alta Books; 8a ed.; 2014; 1148 pag.; R$ 250
-245 - java como programar; Paul e Harvey Deitel; Editora Pearson; 10a ed.; 2017; 934 pag.; R$ 500
-246 - jiu-jitsu sem mestre; Luiz Fuki; Editora Ediouro; 1a ed.; ; 152 pag.; R$ 30
-247 - jogos em hrml5 explore o mobile e física; Éderson Cássio; Editora Casa do Código; 1a ed.; 2015; 243 pag.; R$ 60
-248 - judo kodokan; Jigoro Kano; Editora Cultrix; 1a ed.; 2008; 271 pag.; R$ 60
-249 - judô manual prático; Robert Lasserre; Editora Mestre Jou; 1a ed.; 1969; 292 pag.; R$ 100
-250 - karate-do manual prático; Robert Lasserre; Editora Mestre Jou; 1a ed.; 1968; 153 pag.; R$ 20
-251 - karatê-do kyohan; Gichin Funakoshi; Editora Cultrix; 1a ed.; 2014; 272 pag.; R$ 60
-252 - krav magá a filosofia da defesa israelense; Kobi Lichtenstein; Editora Imago; 2a ed.; 2006; 328 pag.; R$ 300
-253 - lingua latina per se illustrata familia romana; Hans H. Orberg; Editora Focus; 2a ed.; 2011; 328 pag.; R$ 350
-254 - lingua latina per se illustrata roma aeterna; Hans H. Orberg; Editora Focus; 2a ed.; 2017; 423 pag.; R$ 300
-255 - livro completo do tai chi chuan; Wong Kiew Kit; Editora Pensamento; 1a ed.; 2014; 320 pag.; R$ 30
-256 - logicomix uma jornada épica em busca da verdade; Apostolos Doxiadis e Christos H. Papadimitriou; Editora WMF Martins Fontes; 1a ed.; 2010; 347 pag.; R$ 50
-257 - lolita; Vladimir Nabokov; Editora Folha de São Paulo; 1a ed.; 2003; 319 pag.; R$ 10
-258 - luta por pontos de pressão; Rick Clark; Editora Record; 1a ed.; 2004; 256 pag.; R$ 30
-259 - lógica; Wesley C. Salmon; Editora LTC; 3a ed.; 2002; 91 pag.; R$ 30
-260 - lógica - exercícios - iv: dedução no cálculo de predicados; Leônidas Hegenberg; Editora EDUSP; 1a ed.; 1978; 200 pag.; R$ 20
-261 - lógica de primeira ordem; Raymond M. Smullyan; Editora Unesp; 1a ed.; 2009; 188 pag.; R$ 20
-262 - lógica de programação e algoritmos com javascript; Edécio Fernando Iepsen; Editora Novatec; 2a ed.; 2022; 350 pag.; R$ 60
-263 - lógica de programação: crie seus peimeiros programas usando javascript e html; Paulo Silveira e Adriano Almeida; Editora Casa do Código; 1a ed.; 2017; 180 pag.; R$ 50
-264 - lógica de programação: crie seus peimeiros programas usando javascript e html; Paulo Silveira e Adriano Almeida; Editora Casa do Código; 1a ed.; 2017; 180 pag.; R$ 50
-265 - lógica e jogos lógicos; Z. P. Dienes e E. W. Golding; Editora EPU; 3a ed.; 1976; 105 pag.; R$ 10
-266 - lógica formal e sua aplicação na argumentação matemática; Thiago de Oliveira Alves; Editora UFJF; 1a ed.; 2016; 99 pag.; R$ 0
-267 - lógica indutiva e probabilidade; Newton da Costa; Editora Hucitec; 3a ed.; 2008; 89 pag.; R$ 30
-268 - lógica matemática; Rogério Augusto dos Santos Fajardo; Editora Edusp; 1a ed.; 2017; 208 pag.; R$ 30
-269 - lógica uma introdução voltada para as ciências; Stan Baronett; Editora Bookman; 1a ed.; 2009; 563 pag.; R$ 100
-270 - manual completo de aberturas de xadrez; Fred Reinfeld; Editora Ibrasa; 15a ed.; 1979; 181 pag.; R$ 50
-271 - manual de indução matemática; Luís Lopes; Editora Interciência; 1a ed.; 1999; 132 pag.; R$ 30
-272 - manual de litaretura guia prático de português; Patricia Martins e Teresinha de Oliveira Ledo; Editora DCL; 1a ed.; 2004; 346 pag.; R$ 5
-273 - manual prático de marcenaria; Domingos Marcellini; Editora Ediouro; 1a ed.; ; 277 pag.; R$ 7
-274 - manual prático do construtor e mestre-de-obras; Rino Vogorelli; Editora Hemus; 1a ed.; 1969; 181 pag.; R$ 50
-275 - matemática financeira; Clovis de Faro; Editora Apec; 8a ed.; 1980; 406 pag.; R$ 20
-276 - matemática para pais e filhos; Carol Vorderman; Editora Publifolha; 1a ed.; 2011; 256 pag.; R$ 30
-277 - moderna gramática portuguesa; Evanildo Bechara; Editora Nova Fronteira; 38a ed.; 2015; 689 pag.; R$ 35
-278 - muai thai básico técnicas introdutórias de boxe tailandês; Christoph Delp; Editora Madras; 1a ed.; 2012; 220 pag.; R$ 80
-279 - médium quem é e quem não é; Demétrio Pável Bastos; Editora Instituto Maria; 1a ed.; ; 108 pag.; R$ 5
-280 - método sonhadora; P. E. Amsco; Editora Irmãos Vitale; 1a ed.; 1942; 19 pag.; R$ 10
-281 - métodos para hipnotizar; Ernest Roth; Editora Ediouro; 1a ed.; 1984; 118 pag.; R$ 10
-282 - máquina do tempo um olhar científico; Mário Novello; Editora Jorge Zahar; 2a ed.; 2005; 206 pag.; R$ 20
-283 - naturalismo; Jack Ritchie; Editora Vozes; 1a ed.; 2012; 316 pag.; R$ 30
-284 - negociação e sua dinâmica na empresa; Francisco Gomes de Matos; Editora LTC; 1a ed.; 1982; 89 pag.; R$ 10
-285 - novas aventuras científicas de sherlock holmes; Colin Bruce; Editora Jorge Zahar; 1a ed.; 2003; 258 pag.; R$ 40
-286 - novo dicionário de esperanto; Allan Kardec Afonso Costa; Editora FEB; 2a ed.; 1987; 544 pag.; R$ 20
-287 - não seja mais uma vítima; José Roberto Romeiro Abrahão e Ricardo Nakayama; Editora Bueno; 1a ed.; 2013; 257 pag.; R$ 50
-288 - o capital em quadrinhos; K. Ploeckinger, G. Wolfram e Lucio Colletti; Editora Global; 3a ed.; 1985; 80 pag.; R$ 5
-289 - o conde de monte cristo; Alexandre Dumas; Editora Zahar; 1a ed.; 2012; 1663 pag.; R$ 20
-290 - o dia a dia do professor; ; Editora Nova Fronteira; 1a ed.; 2014; 191 pag.; R$ 10
-291 - o futuro é hoje: educação financeira para não estudantes; Fábio Giambiagi e Roberto Zentgraf; Editora Campus; 1a ed.; 2010; 183 pag.; R$ 5
-292 - o homem que calculava; Malba Tahan; Editora Getúlio M. Costa; 4a ed.; 1939; 239 pag.; R$ 5
-293 - o homem que fugiu para a lua; Ivani Egalon; Editora Schoba; 1a ed.; 2012; 316 pag.; R$ 10
-294 - o livro da sorte; ; Editora Nova Cultura; 1a ed.; 1985; 348 pag.; R$ 50
-295 - o livro das mágicas; Max Yantok; Editora Ediouro; 1a ed.; ; 170 pag.; R$ 5
-296 - o livro de allan kardec; Allan Kardec; Editora Opus; 3a ed.; 1982; 1308 pag.; R$ 150
-297 - o livro de ouro da bíblia; J. W. Rogerson; Editora Ediouro; 1a ed.; 2010; 348 pag.; R$ 20
-298 - o livro de ouro das religiões; John Bowker; Editora Ediouro; 1a ed.; 2010; 537 pag.; R$ 20
-299 - o livro do kiai e dos kuatsu; Robert Lasserre; Editora Mestre Jou; 1a ed.; 1971; 184 pag.; R$ 20
-300 - o livro dos cinco anéis; Miyamoto Musashi; Editora Hunter Books; 5a ed.; 2015; 160 pag.; R$ 20
-301 - o livro dos desafios vol. 2; Charles Barry Townsend; Editora Ediouro; 1a ed.; 2004; 258 pag.; R$ 20
-302 - o melhor da super; ; Editora Abril; 1a ed.; 2013; 320 pag.; R$ 20
-303 - o momento ideal das artes marciais; Loren W. Christensen e Wim Demeere; Editora Madras; 1a ed.; 2011; 340 pag.; R$ 150
-304 - o monge no jardim; Robin Marantz Henig; Editora Rocco; 1a ed.; 2001; 256 pag.; R$ 10
-305 - o mundo em infográfico; Jon Richards e Ed Simkins; Editora Sextante; 1a ed.; 2010; 192 pag.; R$ 20
-306 - o problema das definições em matemática; Malba Tahan; Editora Saraiva; 1a ed.; 1965; 215 pag.; R$ 15
-307 - o senhor dos anéis vol. único; J. R. R. Tolkien; Editora Martins Fontes; 1a ed.; 2001; 1202 pag.; R$ 60
-308 - o tao do jet kune do; Bruce Lee; Editora Conrad Livros; 4a ed.; 3003; 239 pag.; R$ 65
-309 - o universo; Paul Couderc e Jean-Claude Pecker; Editora Edições 70; 1a ed.; 1987; 137 pag.; R$ 10
-310 - o verdadeiro caminho do karatê; A. G. Gotuzzo Tagnin; Editora Edigraf; 1a ed.; 1973; 560 pag.; R$ 20
-311 - os 300 erros mais comuns da língua portuguesa; Eduardo Martins; Editora Barros Fischer e Associados; 1a ed.; 2011; 128 pag.; R$ 20
-312 - os elementos; Euclides; Editora Unesp; 1a ed.; 2009; 600 pag.; R$ 100
-313 - os segredos do karatê; Robin L. Rielly; Editora Madras; 1a ed.; 2011; 254 pag.; R$ 50
-314 - para leigos, desenho; Brenda Hoddinott; Editora Alta Books; 1a ed.; 2011; 327 pag.; R$ 50
-315 - para leigos, gaita; Winslow Yerxa; Editora Alta Books; 1a ed.; 2014; 360 pag.; R$ 30
-316 - para leigos, lógica; Mark Zegarelli; Editora Alta Books; 1a ed.; 2013; 363 pag.; R$ 40
-317 - para leigos, nutrição; Carol Ann Rinzler; Editora Alta Books; 4a ed.; 2011; 368 pag.; R$ 30
-318 - pedofilia identificar e previnir; Lúcia Cavalcanti de Albuquerque Williams; Editora Brasiliense; 1a ed.; 2012; 112 pag.; R$ 5
-319 - pontos vitais e defesa pessoal; Chung Sun-Yong; Editora Centro do Livro Brasileiro; 1a ed.; 1980; 174 pag.; R$ 30
-320 - preticando aritmética; José Carlos Admo Lacerda; Editora Issonnarte; 4a ed.; 2010; 445 pag.; R$ 30
-321 - primeiro você constrói uma nuvem; K. C. Cole; Editora Record; 1a ed.; 2007; 306 pag.; R$ 10
-322 - primeiros socorros; Drauzio Varela e Carlos Jardim; Editora Claro Enigma; 1a ed.; 2011; 64 pag.; R$ 20
-323 - princípios básicos de eletricidade; Maurice Grayle Suffern; Editora DEM; 1a ed.; 1970; 419 pag.; R$ 25
-324 - probabilidade aplicações à estatística; Paul L. Meyer; Editora LTC; 2a ed.; 1983; 426 pag.; R$ 80
-325 - pré-cálculo; Paulo Boulos; Editora Pearson Makron Books; 1a ed.; 2004; 101 pag.; R$ 20
-326 - quem é você de verdade; Nicolle Ferreira; Editora Polo Books; 1a ed.; 2016; 284 pag.; R$ 10
-327 - química um curso universitário; Bruce H. Mahan; Editora Edgard Blucher; 2a ed.; 1978; 656 pag.; R$ 50
-328 - receitas de coquetéis, aperitivos e bebidas; Lígia Junqueira; Editora Ediouro; 1a ed.; ; 72 pag.; R$ 10
-329 - relatividade; Russel Stannard; Editora L&PM; 1a ed.; 2013; 126 pag.; R$ 10
-330 - resistência dos materiais; Clésio Gabriel Di Blasi; Editora Livraria Freitas Bastos; 2a ed.; 1990; 738 pag.; R$ 20
-331 - ruas do rio de janeiro 2010; José Eduardo Camargo; Editora Abril; 1a ed.; 2009; 418 pag.; R$ 0
-332 - segredos da sinuca: fundamentos científicos; Jorge Dias Teixeira; Editora J. D. Giorgio; 1a ed.; ; 63 pag.; R$ 10
-333 - sobrevivência no mar; Celso A. J. de Rezende; Editora Catatau; 1a ed.; 1991; 179 pag.; R$ 20
-334 - tabela de composição de alimentos; Sonia Tucunduva Philippi; Editora Manole; 5a ed.; 2016; 138 pag.; R$ 50
-335 - tarô: as cartas do destino; Maria Silva da Conceição Passos; Editora Nova Cultura; 1a ed.; 1985; 128 pag.; R$ 30
-336 - tebelas numéricas; Lauro Sodré Viveiros de Castro; Editora Científica; 1a ed.; 1974; 128 pag.; R$ 10
-337 - teoria da música; Bohumil Med; Editora MusiMed; 4a ed.; 1996; 420 pag.; R$ 50
-338 - teoria da recursão; Matias Francisco Dias e Leonardo Weber; Editora Unesp; 1a ed.; 2010; 277 pag.; R$ 30
-339 - teoria das categorias; Paulo B. Menezes e Edward H. Haeusler; Editora Sagra Luzzatto; 1a ed.; 2001; 324 pag.; R$ 30
-340 - teoria econômica; A. W. Stonier e D. C. Hague; Editora Zahar; 4a ed.; 1965; 648 pag.; R$ 15
-341 - teoria quântica; John Polkinghorne; Editora LPM; 1a ed.; 2019; 133 pag.; R$ 20
-342 - termodinâmica tabelas; ; Editora ; a ed.; ;  pag.; R$ 2
-343 - tratamento estatístico de dados; Otaviano A. M. Helene e Vito R. Vanin; Editora Edgard Blucher; 2a ed.; 1981; 105 pag.; R$ 20
-344 - treine sem peso; Joe Kita; Editora Abril; 1a ed.; 2009; 96 pag.; R$ 10
-345 - trigonometria números complexos; Manfredo Perdigão do Carmo... [et al.]; Editora SBM; 3a ed.; 2005; 122 pag.; R$ 20
-346 - troque gordura por músculo; Joe Kita; Editora Abril; 1a ed.; 2009; 96 pag.; R$ 15
-347 - truques e mágicas incríveis; Norm Barnhart; Editora Escala; 1a ed.; 2012; 109 pag.; R$ 10
-348 - um drink no inferno; Quentin Tarantino; Editora Rocco; 1a ed.; 1996; 142 pag.; R$ 5
-349 - use a cabeça! desenvolvimento par android; Dawn Griffiths e David Griffiths; Editora Alta Books; 2a ed.; 2019; 888 pag.; R$ 200
-350 - use a cabeça! java; Kathy Sierra e Bert Bates; Editora Alta Books; 2a ed.; 2010; 484 pag.; R$ 50
-351 - utilitarismo; Tim Mulgan; Editora Vozes; 1a ed.; 2012; 272 pag.; R$ 30
-352 - vade mecum compacto de direito ridel; ; Editora Ridel; 1a ed.; 2010; 2247 pag.; R$ 5
-353 - variedades diferenciais; Elon Lages Lima; Editora IMPA; 1a ed.; 2012; 289 pag.; R$ 20
-354 - xadrez básico; Dr. Orfeu Gilberto D'Agostini; Editora Ediouro; 5a ed.; 2002; 614 pag.; R$ 50
-355 - xadrez: partidas selecionadas de v. v. smylov 1935-1958; V. V. Smylov; Editora Ibrasa; 3a ed.; 1970; 221 pag.; R$ 10
+11 - a arte de sonhar; Carlos Castaneda; Editora Círculo do Livro; 1a ed.; 1993; 271 pag.; R$ 100
+12 - a bíblia de jerusalém; ; Editora Edições Paulinas; 1a ed.; 1981; 1161 pag.; R$ 150
+13 - a bíblia do mma; Anderson Silva; Editora Universo dos Livros; 1a ed.; 2012; 368 pag.; R$ 60
+14 - a economia em linguagem matemática; Robert C. Bingham; Editora Zahar Editores; 1a ed.; 1975; 500 pag.; R$ 20
+15 - a ginástica chinesa; Dr. Dahong Zhuo; Editora Record; 2a ed.; 1984; 191 pag.; R$ 20
+16 - a história de deus; ; Editora Ediouro; 1a ed.; ; 129 pag.; R$ 5
+17 - a imagem do pensamento libras; Sueli Ramalho Segala e Catarina Kiguti Kojima; Editora Escala; 2a ed.; 2019; 399 pag.; R$ 50
+18 - a origem das espécies; Charles Darwin; Editora Martin Claret; 1a ed.; 2014; 572 pag.; R$ 30
+19 - a prova de godel; Ernest Nagel e James R. Newman; Editora Perspectiva; 2a ed.; 2012; 100 pag.; R$ 20
+20 - a revolução russa; André Diniz; Editora Escala Educacional; 1a ed.; 2008; 48 pag.; R$ 5
+21 - a tempestade; William Shakespeare; Editora Lafonte; 1a ed.; 2011; 143 pag.; R$ 10
+22 - abacedário da álgebra vol. 1; Darcy Leal de Menezes; Editora Livraria Nobel; 5a ed.; 1975; 483 pag.; R$ 10
+23 - abacedário da álgebra vol. 2; Darcy Leal de Menezes; Editora Livraria Nobel; 9a ed.; 1975; 674 pag.; R$ 10
+24 - aikido a esfera dinâmica; Adele Westbrook e Oscar Ratti; Editora Madras; 1a ed.; 2006; 398 pag.; R$ 200
+25 - aikido evolução passo a passo; Moriteru Ueshiba; Editora Pensamento; 1a ed.; 2008; 205 pag.; R$ 50
+26 - algebra linear; Alfredo Steinbruch e Paulo Winterle; Editora Pearson Makron Books; 2a ed.; 2009; 583 pag.; R$ 35
+27 - algebra linear e aplicações; Carlos A. Callioli... [et al.]; Editora Atual; 6a ed.; 1990; 352 pag.; R$ 50
+28 - algebra linear exercícios e soluções; Ralph Costa Teixeira; Editora IMPA; 3a ed.; 2014; 438 pag.; R$ 25
+29 - almanaque dos cães; ; Editora Escala; 1a ed.; 2011; 451 pag.; R$ 10
+30 - anarquismo e liberdade na prática; Carlos Algusto Addor, Lynn Hunt e Eddy Stols; Editora Revista de História da Biblioteca Nacional; 1a ed.; 2013; 98 pag.; R$ 5
+31 - análise real vol. 1: funções de uma variável; Elon Lages Lima; Editora IMPA; 8a ed.; 2006; 189 pag.; R$ 10
+32 - aprenda taekwon-do; Woo-Jae Lee; Editora Brasil-América; 1a ed.; 1988; 319 pag.; R$ 1500
+33 - aprendendo boxe; Ricardo U. S. Unanian e Luiz Fernando C. Silva; Editora Lince; 1a ed.; 2006; 88 pag.; R$ 10
+34 - aprendendo xadrez; Stefan Bernwallner; Editora Ciência Moderna; 1a ed.; 2005; 230 pag.; R$ 30
+35 - arte de ganhar dinheiro: trabalha para ti; ; Editora Livraria Civilização; 1a ed.; 1988; 702 pag.; R$ 100
+36 - arte e técnica do charadismo; Sylvio Alves; Editora Ediouro; 1a ed.; ; 126 pag.; R$ 10
+37 - arte no xadrez; Barnie F. Winkelman; Editora Hemus; 1a ed.; ; 157 pag.; R$ 15
+38 - artes marciais mistas: os segredos do mma; Mickey Dimic com Cristopher Miller; Editora Madras; 1a ed.; 2011; 240 pag.; R$ 25
+39 - as crônicas de gelo e fogo vol. 1: a guerra dos tronos; George R. R. Martin; Editora Leya; 1a ed.; 2012; 1066 pag.; R$ 20
+40 - as crônicas de gelo e fogo vol. 2: a fúria dos reis; George R. R. Martin; Editora Leya; 1a ed.; 2012; 1190 pag.; R$ 20
+41 - as crônicas de gelo e fogo vol. 3: a tormenta de espadas; George R. R. Martin; Editora Leya; 1a ed.; 2012; 1474 pag.; R$ 20
+42 - as crônicas de gelo e fogo vol. 4: o festim dos corvos; George R. R. Martin; Editora Leya; 1a ed.; 2012; 1099 pag.; R$ 20
+43 - atemis e jiu-jitsu; Robert Lasserre; Editora Mestre Jou; 2a ed.; 1976; 249 pag.; R$ 200
+44 - atemis y jiu jitsu; Robert Lasserre; Editora Hispano Europea; 3a ed.; 1965; 247 pag.; R$ 50
+45 - ateísmo uma breve introdução; Julian Baggini; Editora L&PM; 1a ed.; 2016; 141 pag.; R$ 20
+46 - atlas de bolso de anatomia humana; Heinz Feneis e Wolfgang Dauber; Editora Manole; 4a ed.; 2002; 493 pag.; R$ 20
+47 - bechara para concursos: enem, vestibular e todo tipo de prova de portugês; Evanildo Bechara; Editora Nova Fronteira; 1a ed.; 2019; 736 pag.; R$ 30
+48 - bib. júlio verne: a escola dos robinsons; Júlio Verne; Editora RBA; 1a ed.; 2003; 288 pag.; R$ 20
+49 - bib. júlio verne: a ilha misteriosa o abandonado; Júlio Verne; Editora RBA; 1a ed.; 2003; 303 pag.; R$ 20
+50 - bib. júlio verne: a ilha misteriosa o segredo da ilha; Júlio Verne; Editora RBA; 1a ed.; 2003; 284 pag.; R$ 20
+51 - bib. júlio verne: a ilha misteriosa os nálfragos; Júlio Verne; Editora RBA; 1a ed.; 2003; 304 pag.; R$ 20
+52 - bib. júlio verne: a volta ao mundo em 80 dias; Júlio Verne; Editora RBA; 1a ed.; 2003; 255 pag.; R$ 20
+53 - bib. júlio verne: as atribulações de um chinês na china; Júlio Verne; Editora RBA; 1a ed.; 2003; 207 pag.; R$ 20
+54 - bib. júlio verne: cinco semanas em balão; Júlio Verne; Editora RBA; 1a ed.; 2003; 304 pag.; R$ 20
+55 - bib. júlio verne: miguel strogoff; Júlio Verne; Editora RBA; 1a ed.; 2003; 351 pag.; R$ 20
+56 - bib. júlio verne: os filhos do capitão grant na américa do sul; Júlio Verne; Editora RBA; 1a ed.; 2003; 303 pag.; R$ 20
+57 - bib. júlio verne: os filhos do capitão grant na austrália meridional; Júlio Verne; Editora RBA; 1a ed.; 2003; 303 pag.; R$ 20
+58 - bib. júlio verne: os filhos do capitão grant no oceano pacífico; Júlio Verne; Editora RBA; 1a ed.; 2003; 270 pag.; R$ 20
+59 - bib. júlio verne: os quinhentos milhões da begun; Júlio Verne; Editora RBA; 1a ed.; 2003; 254 pag.; R$ 20
+60 - bib. júlio verne: um herói de quinze anos; Júlio Verne; Editora RBA; 1a ed.; 2002; 396 pag.; R$ 20
+61 - bib. júlio verne: viagem ao centro da terra; Júlio Verne; Editora RBA; 1a ed.; 2003; 268 pag.; R$ 20
+62 - bib. júlio verne: à roda da lua; Júlio Verne; Editora RBA; 1a ed.; 2003; 254 pag.; R$ 20
+63 - bioquímica; Klaus Dose; Editora EPU-Springer-EDUSP; 1a ed.; 1982; 296 pag.; R$ 10
+64 - boliche em 10 lições; Don Carter; Editora Best Seller; 1a ed.; 1964; 108 pag.; R$ 20
+65 - bíblia de estudos thompson; ; Editora Vida; 2a ed.; 2011; 1703 pag.; R$ 100
+66 - c completo e total; Herbert Schildt; Editora Pearson; 3a ed.; 2010; 827 pag.; R$ 400
+67 - c++ como programar; Paul e Harvey Deitel; Editora Pearson; 5a ed.; 2006; 1163 pag.; R$ 400
+68 - c.q.d explicações e demonstrações sobre conceitos, teoremas e fórmulas essenciais da geometria; Gilberto G. Garbi; Editora Livraria da Física; 1a ed.; 2010; 403 pag.; R$ 30
+69 - calculo diferencial e integral de funções de várias variáveis; Diomara Pinto e Maria Cândida Ferreira Morgado; Editora UFRJ; 3a ed.; 2009; 348 pag.; R$ 35
+70 - calculo diferencial e integral vol. 2; Richard Courant; Editora Globo; 1a ed.; 1963; 683 pag.; R$ 25
+71 - calculo tensorial; Elon Lages Lima; Editora IMPA; 3a ed.; 2012; 248 pag.; R$ 20
+72 - capoeira sem mestre; Lamrtine P. da Costa; Editora Ediouro; 1a ed.; ; 102 pag.; R$ 25
+73 - ciência e fé: milagres e mensagens; Nilson Dimarzio; Editora Nova Gráfica; 1a ed.; 2005; 190 pag.; R$ 5
+74 - ciência política; Paulo Bonavides; Editora Fundação Getúlio Vargas; 2a ed.; 1974; 627 pag.; R$ 30
+75 - ciências para pais e filhos; Carol Vorderman; Editora Publifolha; 1a ed.; 2013; 256 pag.; R$ 50
+76 - clássicos em quadrinhos: drácula; Bram Stoker; Editora Rai; 1a ed.; 2003; 145 pag.; R$ 20
+77 - clássicos em quadrinhos: sherlock holmes; Arthur Conan Doyle; Editora Rai; 1a ed.; 2002; 144 pag.; R$ 20
+78 - coleção enem você na universidade: ciências da natureza; ; Editora Alaúde; 1a ed.; 2017; 95 pag.; R$ 5
+79 - coleção enem você na universidade: ciências humanas e suas tecnologias; ; Editora Alaúde; 1a ed.; 2017; 95 pag.; R$ 5
+80 - coleção enem você na universidade: linguagens, códigos e suas tecnologias; ; Editora Alaúde; 1a ed.; 2017; 95 pag.; R$ 5
+81 - coleção enem você na universidade: matemática e suas tecnologias; ; Editora Alaúde; 1a ed.; 2017; 95 pag.; R$ 5
+82 - coleção objetivo fichas-resumo 1; ; Editora CERED; 1a ed.; ; 208 pag.; R$ 30
+83 - coleção objetivo fichas-resumo 2; ; Editora CERED; 1a ed.; ; 370 pag.; R$ 30
+84 - coleção profmat aritmética; Abramo Hefez; Editora SBM; 1a ed.; 2014; 338 pag.; R$ 30
+85 - coleção profmat geometria; Antônio Caminha Muniz Neto; Editora SBM; 1a ed.; 2013; 502 pag.; R$ 50
+86 - coleção profmat matemática discreta; Augusto C. Morgado e Paulo Cezar P. Carvalho; Editora SBM; 1a ed.; 2013; 204 pag.; R$ 30
+87 - coleção profmat números e funções reais; Elon Lages Lima; Editora SBM; 1a ed.; 2013; 297 pag.; R$ 30
+88 - coleção schaum circuitos elétricos; Joseph A. Edminister; Editora McGrall-Hill; 3a ed.; 1972; 442 pag.; R$ 20
+89 - coleção schaum cálculo diferencial e integral; Frank Ayres Jr.; Editora Ao Livro Técnico; 2a ed.; 1966; 371 pag.; R$ 30
+90 - coleção schaum elementos orgânicos de máquinas; Hall, Holowenko e Laughlin; Editora Ao Livro Técnico; 1a ed.; 1968; 588 pag.; R$ 20
+91 - coleção schaum eletricidade básica; Milton Gussow; Editora Pearson Makron Books; 2a ed.; 1997; 639 pag.; R$ 30
+92 - coleção schaum engenharia de software; David A. Gustafson; Editora Bookman; 1a ed.; 2003; 207 pag.; R$ 25
+93 - coleção schaum equações diferenciais; Frank Ayres Jr.; Editora Ao Livro Técnico; 1a ed.; 1958; 397 pag.; R$ 30
+94 - coleção schaum estatística; Murray R. Spiegel; Editora McGrall-Hill; 1a ed.; 1977; 580 pag.; R$ 20
+95 - coleção schaum física; Daniel Schaum; Editora Ao Livro Técnico; 1a ed.; 1946; 280 pag.; R$ 10
+96 - coleção schaum física geral; Schaum/Van Der Merwe; Editora McGrall-Hill; 2a ed.; 1975; 430 pag.; R$ 15
+97 - coleção schaum geometria analítica; Joseph H. Kindle; Editora McGrall-Hill; 2a ed.; 1974; 244 pag.; R$ 20
+98 - coleção schaum lógica; John Nolt e Dennis Rohatyn; Editora Makron Books; 1a ed.; 1991; 596 pag.; R$ 200
+99 - coleção schaum macroeconomia; Eugene A. Diulio; Editora McGrall-Hill; 2a ed.; 1977; 268 pag.; R$ 40
+100 - coleção schaum manual de fórmulas e tabelas matemáticas; Murray R. Spiegel; Editora McGrall-Hill; 2a ed.; 1973; 270 pag.; R$ 30
+101 - coleção schaum matemática financeira; Frank Ayres Jr.; Editora McGrall-Hill; 2a ed.; 1971; 306 pag.; R$ 20
+102 - coleção schaum matemática finita; Seymour Lipschutz; Editora McGrall-Hill; 3a ed.; 1977; 409 pag.; R$ 20
+103 - coleção schaum mecânica dos fluidos e hidráulica; Ranald V. Giles; Editora McGrall-Hill; 2a ed.; 1978; 401 pag.; R$ 25
+104 - coleção schaum princípios digitais; Roger L. Tokheim; Editora Makron Books; 3a ed.; 1996; 533 pag.; R$ 20
+105 - coleção schaum probabilidade; Seymour Lipschutz; Editora McGrall-Hill; 2a ed.; 1972; 228 pag.; R$ 20
+106 - coleção schaum programação com java; John Hubbard; Editora Bookman; 2a ed.; 2006; 328 pag.; R$ 80
+107 - coleção schaum programação em c++; John R. Hubbard; Editora Bookman; 2a ed.; 2003; 392 pag.; R$ 70
+108 - coleção schaum química geral; Schaum/Rosenberg; Editora McGrall-Hill; 2a ed.; 1979; 372 pag.; R$ 30
+109 - coleção schaum resistência dos materiais; William A. Nash; Editora McGrall-Hill; 3a ed.; 1982; 521 pag.; R$ 40
+110 - coleção schaum teoria dos conjuntos; Seymour Lipschutz; Editora McGrall-Hill; 4a ed.; 1974; 337 pag.; R$ 20
+111 - coleção schaum topologia geral; Seymour Lipschutz; Editora McGrall-Hill; 2a ed.; 1973; 301 pag.; R$ 30
+112 - coleção schaum transformadas de laplace; Murray R. Spiegel; Editora McGraw-Hill; 2a ed.; 1975; 344 pag.; R$ 25
+113 - coleção schaum trigonometria; Frank Ayres Jr.; Editora McGrall-Hill; 1a ed.; 1976; 203 pag.; R$ 30
+114 - coleção schaum álgebra linear; Seymour Lopschutz; Editora McGrall-Hill; 2a ed.; 1973; 403 pag.; R$ 20
+115 - como construir uma casa; Roberto Chaves; Editora Ediouro; 1a ed.; 1991; 157 pag.; R$ 10
+116 - como fazer quase tudo; ; Editora Reader's Digest; 1a ed.; 1997; 471 pag.; R$ 30
+117 - como fazer uma monografia; Délcio Vieira Salomon; Editora Interlivros; 5a ed.; 1977; 317 pag.; R$ 20
+118 - completo manual de jogos de cartas; Ely Culbertson; Editora Ibrasa; 1a ed.; 1962; 400 pag.; R$ 30
+119 - computabilidade e lógica; George S. Boolos... [et al.]; Editora Unesp; 1a ed.; 2012; 435 pag.; R$ 100
+120 - computabilidade, funções computáveis, lógica e fund. da matemática; Walter Carnielli e Richard L. Epstein; Editora UNESP; 2a ed.; 2009; 415 pag.; R$ 100
+121 - compêndio de religiões e espiritualidade; Leonardo A. Marques e Emilia A. dos S. Coutinho; Editora Öcone; 1a ed.; 2010; 648 pag.; R$ 30
+122 - consertos rápidos dos defeitos na casa; Arnaldo Belmiro; Editora Ediouro; 1a ed.; 1986; 137 pag.; R$ 5
+123 - construções geométricas: exercícios e soluções; Sérgio Lima Neto; Editora SBM; 1a ed.; 2009; 142 pag.; R$ 20
+124 - contabilidade; Maria do Socorro Gomes de Amorim; Editora Öcone; 1a ed.; 2008; 736 pag.; R$ 10
+125 - contabilidade pública; Maria do Socorro Gomes de Amorim; Editora Öcone; 1a ed.; 2008; 523 pag.; R$ 10
+126 - contos de vampiros clássicos escolhidos; Flávio Moreira da Costa; Editora Ediouro; 1a ed.; 2009; 437 pag.; R$ 5
+127 - coordenadas no plano; Elon Lages Lima; Editora SBM; 5a ed.; 2011; 329 pag.; R$ 20
+128 - copacabana; S. Lobo e Odyr; Editora Desiderata; 1a ed.; 2009; 206 pag.; R$ 5
+129 - curso de análise vol. 1; Elon Lages Lima; Editora IMPA; 12a ed.; 2006; 431 pag.; R$ 20
+130 - curso de análise vol. 2; Elon lages Lima; Editora IMPA; 1a ed.; 1981; 557 pag.; R$ 20
+131 - curso de damas brasileiras livro primeiro; W. Bakumenko; Editora Gráfica Urupês; 1a ed.; 1968; 128 pag.; R$ 100
+132 - curso de eletrotécnica vol. 1 (livros 1, 2 e 3); Chester L. Dawes; Editora Globo; 14a ed.; 1976; 762 pag.; R$ 60
+133 - curso de eletrotécnica vol. 2 (livros 4, 5 e 6); Chester L. Daves; Editora Globo; 14a ed.; 1976; 700 pag.; R$ 60
+134 - curso de filosofia; Régis Jolivet; Editora Livraria Agir; 12a ed.; 1976; 445 pag.; R$ 15
+135 - curso de física básica 1: mecânica; H. Moysés Nussenzveig; Editora Edgar Blucher; 4a ed.; 2002; 328 pag.; R$ 60
+136 - curso de física básica 2: fluidos, oscilações e ondas, calor; H. Moysés Nussenzveig; Editora Edgar Blucher; 4a ed.; 2002; 314 pag.; R$ 60
+137 - curso de física básica 3: eletromagnetismo; H. Moysés Nussenzveig; Editora Edgar Blucher; 1a ed.; 1997; 323 pag.; R$ 60
+138 - curso de física básica 4: óptica, relatividade, física quântica; H. Moysés Nussenzveig; Editora Edgar Blucher; 1a ed.; 1998; 437 pag.; R$ 60
+139 - curso de física: teoria do campo; L. Landau e E. Lifchitz; Editora Hemus; 1a ed.; ; 457 pag.; R$ 25
+140 - curso de matemática moderna; Antônio Marmo de Oliveira e Agostinho Silva; Editora Lisa; 1a ed.; ; 740 pag.; R$ 30
+141 - códigos corretores de erros; Abramo Hefez e Maria Lúcia T. Villela; Editora IMPA; 2a ed.; 2008; 216 pag.; R$ 20
+142 - defesa pessoal para briga de rua; Bruce Tegner; Editora Ediouro; 1a ed.; 1965; 63 pag.; R$ 50
+143 - desenvolva jogos com html5 canvas e javascript; Éderson Cássio; Editora Casa do Código; 1a ed.; 2018; 213 pag.; R$ 60
+144 - deus existe?; Joseph Ratzinger e Paolo Flores d'Arcais; Editora Planeta; 1a ed.; 2009; 125 pag.; R$ 20
+145 - dicionário de administração de medicamentos na enfermagem; ; Editora Epub; 9a ed.; 2013; 710 pag.; R$ 10
+146 - dicionário de matemática; Luiz F. Cardoso; Editora Expressão e Cultura; 1a ed.; 2001; 336 pag.; R$ 3
+147 - dicionário gramatical de latim; Janete M. Garcia e Jane Adriana R. O. de Castro; Editora UnB; 1a ed.; 2003; 168 pag.; R$ 25
+148 - dicionário universitário jurídico; Deocleciano Torrieri Gumarães; Editora Ridel; 20a ed.; 2016; 423 pag.; R$ 20
+149 - didática da matemática; Beatriz Helena Magno; Editora Edições Consultor; 1a ed.; 1993; 150 pag.; R$ 10
+150 - direito constitucional e direito administrativo; Maria do Socorro Gomes de Amorim; Editora Öcone; 1a ed.; 2008; 859 pag.; R$ 20
+151 - direito penal: questões de concurso comentadas; Samir José Caetano Martins; Editora Campus/Elsevier; 4a ed.; 2009; 368 pag.; R$ 10
+152 - direito processual civil; Márcia Conceição Alves Dinamarco; Editora Campus/Elsevier; 1a ed.; 2009; 329 pag.; R$ 10
+153 - divertimentos matemáticos; Martin Gardner; Editora Ibrasa; 4a ed.; 1998; 189 pag.; R$ 25
+154 - dona benta comer bem; ; Editora Companhia Editora Nacional; 76a ed.; 2007; 1101 pag.; R$ 100
+155 - dor: o que todo médico deve saber; José Paulo Drummond; Editora Atheneu; 1a ed.; 2006; 106 pag.; R$ 20
+156 - elementos de análise numérica; S. D. Conte; Editora Globo; 1a ed.; 1977; 327 pag.; R$ 10
+157 - elementos de geometria diferencial; Cesar Dacoro Neto e Nilza Rocha Leal; Editora Interciência; 2a ed.; 1978; 148 pag.; R$ 15
+158 - elementos de lógica; Primo Nunes de Andrade; Editora Ao Livro Técnico; 1a ed.; 1972; 244 pag.; R$ 20
+159 - elementos de álgebra; L. H. Jacy Monteiro; Editora Ao Livro Técnico; 1a ed.; 1971; 552 pag.; R$ 20
+160 - enciclopédia da musculação; àscar Morán Esquerdo; Editora LEAP; 1a ed.; 2010; 345 pag.; R$ 70
+161 - enciclopédia de jogos; J. B. Pereira de Almeida; Editora ; 1a ed.; 1975; 288 pag.; R$ 10
+162 - enciclopédia dos pontos que curam; Dr. Roger Dalet; Editora Europa-América; 1a ed.; ; 370 pag.; R$ 20
+163 - enciclopédia técnica universal globo vol. vii, tomo v: equações diferenciais e aplicações; J. Quinet; Editora Globo; 1a ed.; 1970; 264 pag.; R$ 10
+164 - encontro com a matemática; Lars Garding; Editora Universidade de Brasília; 1a ed.; 1981; 323 pag.; R$ 50
+165 - ensaios analíticos; Mario Henrique Simonsen; Editora Fundação Getúlio Vargas; 1a ed.; 1994; 426 pag.; R$ 20
+166 - entendendo acumpuntura; Stephen J. Birch e Robert L. Felt; Editora Roca; 1a ed.; 2002; 420 pag.; R$ 30
+167 - entendendo ética: um guia ilustrado; Dave Robinson e Chris Garratt; Editora Leya; 1a ed.; 2013; 176 pag.; R$ 30
+168 - eram os deuses astronautas?; Erich von Daniken; Editora Círculo do Livro; 1a ed.; 1968; 181 pag.; R$ 20
+169 - escuridão total sem estrelas; Stephen King; Editora Suma de Letras; 1a ed.; 2015; 390 pag.; R$ 30
+170 - esperanto sem mestre; Francisco Valdomiro Lorenz; Editora FEB; 7a ed.; 1978; 396 pag.; R$ 60
+171 - espírito, perispírito e alma; Hernani Guimarães Andrade; Editora Pensamento; 1a ed.; 1984; 246 pag.; R$ 5
+172 - estatuto dos funcionários públicos civis do estado do rio de janeiro; ; Editora AnLuiRenan; 11a ed.; 2012; 236 pag.; R$ 10
+173 - estruturas de dados e algoritmos com javascript; Loiane Groner; Editora Novatec/Packt; 2a ed.; 2021; 406 pag.; R$ 60
+174 - etaque e contra-ataque no xadrez; Fred Reinfeld; Editora Ibrasa; 19a ed.; 2005; 168 pag.; R$ 25
+175 - fabulas de esopo; Esopo; Editora Martin Claret; 1a ed.; 2004; 207 pag.; R$ 5
+176 - fabulas de la fontaine; La Fountaine; Editora Martin Claret; 1a ed.; 2006; 304 pag.; R$ 5
+177 - fantástica fábrica de brinquedos com sucata; Heliana Brandão; Editora O Sol; 1a ed.; 2004; 168 pag.; R$ 20
+178 - ferramentas para sonhadores; Robert B. Dilts, Todd Epstein e Robert W. Dilts; Editora Rocco; 1a ed.; 2004; 358 pag.; R$ 5
+179 - fique por dentro da física moderna; John Gribbin; Editora Cosac e Naify; 2a ed.; 2002; 192 pag.; R$ 20
+180 - forças de elite: técnicas de sobrevivência; Patrick Wilson; Editora Escala; 1a ed.; 2010; 48 pag.; R$ 20
+181 - fregmentos do horror; Junji Ito; Editora Darkside; 1a ed.; 2017; 248 pag.; R$ 30
+182 - fund. de matemática elementar 01: conjuntos e funções; Gelson Iezzi e Carlos Murakami; Editora Atual; 8a ed.; 2005; 373 pag.; R$ 50
+183 - fund. de matemática elementar 02: logaritmos; Gelson Iezzi... [et al.]; Editora Atual; 9a ed.; 2004; 198 pag.; R$ 30
+184 - fund. de matemática elementar 03: trigonometria; Gelson Iezzi; Editora Atual; 7a ed.; 1993; 303 pag.; R$ 50
+185 - fund. de matemática elementar 04: sequências, matrizes, determinantes e sistemas ; Gelson Iezzi e SAmuel Hazzan; Editora Atual; 2a ed.; 1977; 228 pag.; R$ 50
+186 - fund. de matemática elementar 05: combinatória e probabilidade; Samuel Hazzan; Editora Atual; 4a ed.; 1981; 148 pag.; R$ 30
+187 - fund. de matemática elementar 06: complexos, polinômios e equações; Gelson Iezzi; Editora Atual; 7a ed.; 2005; 250 pag.; R$ 50
+188 - fund. de matemática elementar 08: limites, derivadas, noções de integral; Gelson Iezzi... [et al.]; Editora Atual; 5a ed.; 1993; 269 pag.; R$ 100
+189 - fund. de matemática elementar 09: geometria plana; Osvaldo Dolce e José Nicolau Pompeo; Editora Atual; 8a ed.; 2005; 456 pag.; R$ 100
+190 - fund. de matemática elementar 10: geometria espacial; Osvaldo Dolce e José Nicolau Pompeo; Editora Atual; 5a ed.; 1993; 439 pag.; R$ 100
+191 - fundamentos de álgebra; Angela Vidigal... [et al.]; Editora UFMG; 1a ed.; 2005; 199 pag.; R$ 20
+192 - física 1: mecânica; GREF; Editora Edusp; 5a ed.; 1999; 329 pag.; R$ 30
+193 - física 2: física térmica e óptica; GREF; Editora Edusp; 3a ed.; 1996; 363 pag.; R$ 30
+194 - física 3: eletromagnetismo; GREF; Editora Edusp; 4a ed.; 2000; 438 pag.; R$ 30
+195 - física do dia a dia vol. 1; Regina Pinto de Carvalho; Editora Autêntica; 3a ed.; 2019; 86 pag.; R$ 20
+196 - física do dia a dia vol. 2; Regina Pinto de Carvalho; Editora Autêntica; 2a ed.; 2020; 86 pag.; R$ 20
+197 - física mais que divertida; Eduardo de Campos Valadares; Editora UFMG; 3a ed.; 2012; 327 pag.; R$ 30
+198 - física matemática; Eugene Butkov; Editora LTC; 1a ed.; 2011; 725 pag.; R$ 100
+199 - física parte I: mecânica, acústica e calor; Resnick e Halliday; Editora Ao Livro Técnico; 1a ed.; 1967; 704 pag.; R$ 20
+200 - física parte II: eletricidade, magnetismo e óptica; Halliday e Resnick; Editora Ao Livro Técnico; 1a ed.; 1966; 736 pag.; R$ 20
+201 - física quântica; R. Eisberg e R. Resnick; Editora Campus; 14a ed.; 1979; 928 pag.; R$ 100
+202 - geometria analítica; charles h. lehmann; Editora Globo; 5a ed.; 1985; 457 pag.; R$ 30
+203 - geometria ii; A. C. Morgado, E. Wagner e M. Jorge; Editora Livraria Francisco Alves; 1a ed.; 1974; 286 pag.; R$ 10
+204 - geometrografia 1; Virgilio Athayde Pinheiro; Editora Bahiense; 1a ed.; 1974; 346 pag.; R$ 20
+205 - geometrografia 2; Virgilio Athayde Pinheiro; Editora Aula; 1a ed.; 1986; 290 pag.; R$ 40
+206 - golpe de estado um manual prático; Edward Luttwak; Editora Paz e Terra; 1a ed.; 1991; 199 pag.; R$ 20
+207 - grace jiu-jitsu; Hélio Grace; Editora Saraiva; 1a ed.; 2012; 273 pag.; R$ 300
+208 - gramática da língua francesa; Roberto Alvim Corrêa e Sary Hauser Steinberg; Editora FENAME; 3a ed.; 1982; 342 pag.; R$ 10
+209 - gramática, redação, literatura; Celso Puccinelli e Flávio A. C. Leite; Editora Didática Paulista; 1a ed.; ; 476 pag.; R$ 5
+210 - grandes contos h. p. lovecraft; H. P. Lovecraft; Editora Martin Claret; 1a ed.; 2015; 1174 pag.; R$ 50
+211 - gravelight; Marion Zimmer Bradley; Editora Rocco; 1a ed.; 2001; 397 pag.; R$ 5
+212 - grupos, corpos e teoria de galois; Paulo A. Martin; Editora Livraria da Física; 1a ed.; 2010; 429 pag.; R$ 30
+213 - guia completo da bíblia; ; Editora Reader's Digest; 1a ed.; 2003; 448 pag.; R$ 50
+214 - guia completo de jiu-jitsu; Bruce Tegner; Editora Record; 7a ed.; 2003; 170 pag.; R$ 30
+215 - guia completo de judô; Bruce Tegner; Editora Record; 15a ed.; 2002; 303 pag.; R$ 30
+216 - guia completo de jukadô; Bruce Tegner; Editora Record; 2a ed.; 1968; 261 pag.; R$ 30
+217 - guia completo de jukadô; Bruce Tegner; Editora Record; 2a ed.; 1968; 261 pag.; R$ 10
+218 - guia completo do karatê; Bruce Tegner; Editora Record; 14a ed.; 1998; 299 pag.; R$ 30
+219 - guia completo e prático jiu-jitsu autodefesa: método kawaishi; Marcial Serrano; Editora Clube de Autores; 1a ed.; 2012; 286 pag.; R$ 60
+220 - guia de consulta rápida asp; Rubens Prates; Editora Novatec; 1a ed.; 2000; 128 pag.; R$ 8
+221 - guia de consulta rápida bash; Joel Saade; Editora Novatec; 1a ed.; 2001; 96 pag.; R$ 8
+222 - guia de consulta rápida c++; Joel Saade; Editora Novatec; 2a ed.; 2006; 127 pag.; R$ 20
+223 - guia de consulta rápida c++ stl; Joel Saade; Editora Novatec; 1a ed.; 2006; 136 pag.; R$ 20
+224 - guia de consulta rápida comandos do linux; Roberto G. A. Veiga; Editora Novatec; 1a ed.; 2004; 144 pag.; R$ 20
+225 - guia de consulta rápida css; Luis Gustavo Amaral; Editora Novatec; 3a ed.; 2009; 120 pag.; R$ 20
+226 - guia de consulta rápida html4; Marcelo Silveira e Rubens Prates; Editora Novatec; 1a ed.; 2001; 128 pag.; R$ 15
+227 - guia de consulta rápida java 6; Peter Jandl Jr.; Editora Novatec; 1a ed.; 2009; 144 pag.; R$ 20
+228 - guia de consulta rápida java e xml; Renê Rodrigues Veloso; Editora Novatec; 2a ed.; 2007; 109 pag.; R$ 20
+229 - guia de consulta rápida javascript; Edgard B. Damiani; Editora Novatec; 3a ed.; 2006; 144 pag.; R$ 20
+230 - guia de consulta rápida perl; Décio Jr.; Editora Novatec; 1a ed.; 2000; 128 pag.; R$ 18
+231 - guia de consulta rápida php 5; Juliano Niederauer; Editora Novatec; 3a ed.; 2004; 144 pag.; R$ 20
+232 - guia de consulta rápida xml; Otávio C. Décio; Editora Novatec; 1a ed.; 2000; 96 pag.; R$ 8
+233 - guia de suplementos alimentares para atletas; Frédéric Delavier e Michael Gundill; Editora Manole; 1a ed.; 2009; 160 pag.; R$ 40
+234 - guia dos seus direitos; Josué Rios; Editora Globo; 12a ed.; 2002; 910 pag.; R$ 60
+235 - guia essensial do html5: usando jogos para aprender html5 e javascript; Jeanine Meyer; Editora Ciência Moderna; 1a ed.; 2011; 385 pag.; R$ 70
+236 - guia ilustrado zahar: vinhos do mundo todo; Suzan Keevil; Editora Zahar; 4a ed.; 2010; 688 pag.; R$ 50
+237 - guia mangá de estatística; Shin Takahashi, Iroha Inoue e Trend-Pro Co Ltd; Editora Novatec; 1a ed.; 2010; 215 pag.; R$ 20
+238 - guia prático da autosuficiência; John Seymour; Editora WMF martins Fontes; 6a ed.; 2011; 256 pag.; R$ 50
+239 - guia prático do karatê; Hirokazu Kanazawa; Editora Escala; 1a ed.; 2010; 232 pag.; R$ 100
+240 - hand shadows to be thrown upon the wall; Hery Bursill; Editora Dover; 1a ed.; 1967; 17 pag.; R$ 50
+241 - história da filosofia ocidental 1: a filosofia antiga; Bertrand Russell; Editora Nova Fronteira; 1a ed.; 2015; 363 pag.; R$ 20
+242 - história da filosofia ocidental 2: filosofia católica; Bertrand Russell; Editora Nova Fronteira; 1a ed.; 2015; 222 pag.; R$ 20
+243 - história da filosofia ocidental 3: a filosofia moderna; Bertrand Russell; Editora Nova Fronteira; 1a ed.; 2015; 405 pag.; R$ 20
+244 - história da matemática; Carl B. Boyer; Editora Edgar Blucher; 2a ed.; 1996; 496 pag.; R$ 50
+245 - história do ateísmo; George Minois; Editora Unesp; 1a ed.; 2014; 762 pag.; R$ 70
+246 - hp 50g calculadora gráfica guia do usuário cap. 1 a 11 e cap. 12 a 27; ; Editora HP; 1a ed.; 2006; 918 pag.; R$ 0
+247 - i ching: o livro das mutações - oráculo chinês; ; Editora Renes; 1a ed.; 1972; 64 pag.; R$ 10
+248 - imobilizações e deslocamentos em lutas de solo; Steve Scott; Editora Madras; 1a ed.; 2011; 278 pag.; R$ 80
+249 - inglês para pais e filhos; Carol Vorderman; Editora Publifolha; 1a ed.; 2013; 256 pag.; R$ 20
+250 - ingês básico; A. Ghio D.; Editora Pisa; 1a ed.; 1994; 259 pag.; R$ 200
+251 - iniciação à física matemática; J. López Gondar e R. Cipolatti; Editora IMPA; 2a ed.; 2011; 304 pag.; R$ 25
+252 - iniciação à matemática: um curso com problemas e soluções; Kreley I. M. Oliveira e Adán J. C. Fernandez; Editora SBM; 2a ed.; 2012; 291 pag.; R$ 5
+253 - instruções psicofônicas; Francisco Cândido Xavier; Editora FEB; 6a ed.; 1955; 289 pag.; R$ 5
+254 - introdução à cibernética; W. Ross Ashby; Editora Perspectiva; 1a ed.; 1970; 345 pag.; R$ 20
+255 - introdução à programação linear; R. Stansbury Stockton; Editora Atlas; 3a ed.; 1975; 136 pag.; R$ 5
+256 - introdução à relatividade; Nelson B. Maia; Editora Livraria da Física; 1a ed.; 2009; 148 pag.; R$ 10
+257 - introdução à resistência dos materiais; Octávio Gaspar Ricardo; Editora UNICAMP; 1a ed.; 1977; 412 pag.; R$ 30
+258 - introdução à topologia diferencial; Elon Lages Lima; Editora IMPA; 2a ed.; 2012; 166 pag.; R$ 20
+259 - java a referência completa; Herbert Schildt; Editora Alta Books; 8a ed.; 2014; 1148 pag.; R$ 250
+260 - java como programar; Paul e Harvey Deitel; Editora Pearson; 10a ed.; 2017; 934 pag.; R$ 500
+261 - jiu-jitsu sem mestre; Luiz Fuki; Editora Ediouro; 1a ed.; ; 152 pag.; R$ 30
+262 - jogos de cartas; ; Editora Abril; 1a ed.; 1978; 216 pag.; R$ 30
+263 - jogos em hrml5 explore o mobile e física; Éderson Cássio; Editora Casa do Código; 1a ed.; 2015; 243 pag.; R$ 60
+264 - judo katas; Charles Yerkow; Editora Hispano Europea; 5a ed.; 1963; 171 pag.; R$ 50
+265 - judo kodokan; Jigoro Kano; Editora Cultrix; 1a ed.; 2008; 271 pag.; R$ 60
+266 - judô manual prático; Robert Lasserre; Editora Mestre Jou; 1a ed.; 1969; 292 pag.; R$ 100
+267 - karate-do manual prático; Robert Lasserre; Editora Mestre Jou; 1a ed.; 1968; 153 pag.; R$ 20
+268 - karatê dinâmico; M. Nakayama; Editora Cultrix; 11a ed.; 2011; 304 pag.; R$ 200
+269 - karatê-do kyohan; Gichin Funakoshi; Editora Cultrix; 1a ed.; 2014; 272 pag.; R$ 60
+270 - karatê-katas; Oswaldo Duncan; Editora Ediouro; 1a ed.; 1979; 182 pag.; R$ 20
+271 - krav magá a filosofia da defesa israelense; Kobi Lichtenstein; Editora Imago; 2a ed.; 2006; 328 pag.; R$ 300
+272 - lingua latina per se illustrata familia romana; Hans H. Orberg; Editora Focus; 2a ed.; 2011; 328 pag.; R$ 350
+273 - lingua latina per se illustrata roma aeterna; Hans H. Orberg; Editora Focus; 2a ed.; 2017; 423 pag.; R$ 300
+274 - livro completo do tai chi chuan; Wong Kiew Kit; Editora Pensamento; 1a ed.; 2014; 320 pag.; R$ 30
+275 - lições de tai ji jian com espada; W. W. Lee; Editora Madras; 1a ed.; 2003; 97 pag.; R$ 15
+276 - logicomix uma jornada épica em busca da verdade; Apostolos Doxiadis e Christos H. Papadimitriou; Editora WMF Martins Fontes; 1a ed.; 2010; 347 pag.; R$ 50
+277 - lolita; Vladimir Nabokov; Editora Folha de São Paulo; 1a ed.; 2003; 319 pag.; R$ 10
+278 - luta por pontos de pressão; Rick Clark; Editora Record; 1a ed.; 2004; 256 pag.; R$ 30
+279 - lógica; Wesley C. Salmon; Editora LTC; 3a ed.; 2002; 91 pag.; R$ 30
+280 - lógica - exercícios - iv: dedução no cálculo de predicados; Leônidas Hegenberg; Editora EDUSP; 1a ed.; 1978; 200 pag.; R$ 20
+281 - lógica de primeira ordem; Raymond M. Smullyan; Editora Unesp; 1a ed.; 2009; 188 pag.; R$ 20
+282 - lógica de programação e algoritmos com javascript; Edécio Fernando Iepsen; Editora Novatec; 2a ed.; 2022; 350 pag.; R$ 60
+283 - lógica de programação: crie seus peimeiros programas usando javascript e html; Paulo Silveira e Adriano Almeida; Editora Casa do Código; 1a ed.; 2017; 180 pag.; R$ 50
+284 - lógica de programação: crie seus peimeiros programas usando javascript e html; Paulo Silveira e Adriano Almeida; Editora Casa do Código; 1a ed.; 2017; 180 pag.; R$ 50
+285 - lógica e jogos lógicos; Z. P. Dienes e E. W. Golding; Editora EPU; 3a ed.; 1976; 105 pag.; R$ 10
+286 - lógica formal e sua aplicação na argumentação matemática; Thiago de Oliveira Alves; Editora UFJF; 1a ed.; 2016; 99 pag.; R$ 0
+287 - lógica indutiva e probabilidade; Newton da Costa; Editora Hucitec; 3a ed.; 2008; 89 pag.; R$ 30
+288 - lógica matemática; Rogério Augusto dos Santos Fajardo; Editora Edusp; 1a ed.; 2017; 208 pag.; R$ 30
+289 - lógica uma introdução voltada para as ciências; Stan Baronett; Editora Bookman; 1a ed.; 2009; 563 pag.; R$ 100
+290 - manual completo de aberturas de xadrez; Fred Reinfeld; Editora Ibrasa; 15a ed.; 1979; 181 pag.; R$ 50
+291 - manual de defesa da fé: apologética cristã; Peter Kreeft e Ronald K. Tacelli; Editora Central Gospel; 1a ed.; 2008; 624 pag.; R$ 150
+292 - manual de indução matemática; Luís Lopes; Editora Interciência; 1a ed.; 1999; 132 pag.; R$ 30
+293 - manual de litaretura guia prático de português; Patricia Martins e Teresinha de Oliveira Ledo; Editora DCL; 1a ed.; 2004; 346 pag.; R$ 5
+294 - manual de preparação física para o karatê; Marco Antônio Lopes de Sá; Editora Ediouro; 1a ed.; 1988; 119 pag.; R$ 15
+295 - manual do hedonista: dominando a esquecida arte do prazer; Michael Flocker; Editora Rocco; 1a ed.; 2007; 181 pag.; R$ 5
+296 - manual prático de marcenaria; Domingos Marcellini; Editora Ediouro; 1a ed.; ; 277 pag.; R$ 7
+297 - manual prático do construtor e mestre-de-obras; Rino Vogorelli; Editora Hemus; 1a ed.; 1969; 181 pag.; R$ 50
+298 - matemática financeira; Clovis de Faro; Editora Apec; 8a ed.; 1980; 406 pag.; R$ 20
+299 - matemática para pais e filhos; Carol Vorderman; Editora Publifolha; 1a ed.; 2011; 256 pag.; R$ 30
+300 - mentes interligadas; Dean Radin; Editora Aleph; 1a ed.; 2008; 334 pag.; R$ 20
+301 - moderna gramática portuguesa; Evanildo Bechara; Editora Nova Fronteira; 38a ed.; 2015; 689 pag.; R$ 35
+302 - muai thai básico técnicas introdutórias de boxe tailandês; Christoph Delp; Editora Madras; 1a ed.; 2012; 220 pag.; R$ 80
+303 - médium quem é e quem não é; Demétrio Pável Bastos; Editora Instituto Maria; 1a ed.; ; 108 pag.; R$ 5
+304 - método sonhadora; P. E. Amsco; Editora Irmãos Vitale; 1a ed.; 1942; 19 pag.; R$ 10
+305 - métodos para hipnotizar; Ernest Roth; Editora Ediouro; 1a ed.; 1984; 118 pag.; R$ 10
+306 - máquina do tempo um olhar científico; Mário Novello; Editora Jorge Zahar; 2a ed.; 2005; 206 pag.; R$ 20
+307 - naturalismo; Jack Ritchie; Editora Vozes; 1a ed.; 2012; 316 pag.; R$ 30
+308 - negociação e sua dinâmica na empresa; Francisco Gomes de Matos; Editora LTC; 1a ed.; 1982; 89 pag.; R$ 10
+309 - novas aventuras científicas de sherlock holmes; Colin Bruce; Editora Jorge Zahar; 1a ed.; 2003; 258 pag.; R$ 40
+310 - novo dicionário de esperanto; Allan Kardec Afonso Costa; Editora FEB; 2a ed.; 1987; 544 pag.; R$ 20
+311 - numerologia: o futuro e a personalidade através dos números; Graciela Skilton; Editora Agedit; 1a ed.; ; 86 pag.; R$ 3
+312 - não seja mais uma vítima; José Roberto Romeiro Abrahão e Ricardo Nakayama; Editora Bueno; 1a ed.; 2013; 257 pag.; R$ 50
+313 - o capital em quadrinhos; K. Ploeckinger, G. Wolfram e Lucio Colletti; Editora Global; 3a ed.; 1985; 80 pag.; R$ 5
+314 - o conde de monte cristo; Alexandre Dumas; Editora Zahar; 1a ed.; 2012; 1663 pag.; R$ 20
+315 - o dia a dia do professor; ; Editora Nova Fronteira; 1a ed.; 2014; 191 pag.; R$ 10
+316 - o futuro é hoje: educação financeira para não estudantes; Fábio Giambiagi e Roberto Zentgraf; Editora Campus; 1a ed.; 2010; 183 pag.; R$ 5
+317 - o homem que calculava; Malba Tahan; Editora Getúlio M. Costa; 4a ed.; 1939; 239 pag.; R$ 5
+318 - o homem que fugiu para a lua; Ivani Egalon; Editora Schoba; 1a ed.; 2012; 316 pag.; R$ 10
+319 - o livro da sorte; ; Editora Nova Cultura; 1a ed.; 1985; 348 pag.; R$ 50
+320 - o livro das mágicas; Max Yantok; Editora Ediouro; 1a ed.; ; 170 pag.; R$ 5
+321 - o livro de allan kardec; Allan Kardec; Editora Opus; 3a ed.; 1982; 1308 pag.; R$ 150
+322 - o livro de ouro da bíblia; J. W. Rogerson; Editora Ediouro; 1a ed.; 2010; 348 pag.; R$ 20
+323 - o livro de ouro das religiões; John Bowker; Editora Ediouro; 1a ed.; 2010; 537 pag.; R$ 20
+324 - o livro do kiai e dos kuatsu; Robert Lasserre; Editora Mestre Jou; 1a ed.; 1971; 184 pag.; R$ 20
+325 - o livro dos cinco anéis; Miyamoto Musashi; Editora Hunter Books; 5a ed.; 2015; 160 pag.; R$ 20
+326 - o livro dos desafios vol. 2; Charles Barry Townsend; Editora Ediouro; 1a ed.; 2004; 258 pag.; R$ 20
+327 - o melhor da super; ; Editora Abril; 1a ed.; 2013; 320 pag.; R$ 20
+328 - o melhor do humor na internet vol. 2; Augusto M. Costa Netto; Editora BestSeller; 1a ed.; 2010; 247 pag.; R$ 5
+329 - o momento ideal das artes marciais; Loren W. Christensen e Wim Demeere; Editora Madras; 1a ed.; 2011; 340 pag.; R$ 150
+330 - o monge no jardim; Robin Marantz Henig; Editora Rocco; 1a ed.; 2001; 256 pag.; R$ 10
+331 - o mundo em infográfico; Jon Richards e Ed Simkins; Editora Sextante; 1a ed.; 2010; 192 pag.; R$ 20
+332 - o problema das definições em matemática; Malba Tahan; Editora Saraiva; 1a ed.; 1965; 215 pag.; R$ 15
+333 - o senhor dos anéis vol. único; J. R. R. Tolkien; Editora Martins Fontes; 1a ed.; 2001; 1202 pag.; R$ 60
+334 - o tao do jet kune do; Bruce Lee; Editora Conrad Livros; 4a ed.; 3003; 239 pag.; R$ 65
+335 - o universo; Paul Couderc e Jean-Claude Pecker; Editora Edições 70; 1a ed.; 1987; 137 pag.; R$ 10
+336 - o verdadeiro caminho do karatê; A. G. Gotuzzo Tagnin; Editora Edigraf; 1a ed.; 1973; 560 pag.; R$ 20
+337 - os 300 erros mais comuns da língua portuguesa; Eduardo Martins; Editora Barros Fischer e Associados; 1a ed.; 2011; 128 pag.; R$ 20
+338 - os elementos; Euclides; Editora Unesp; 1a ed.; 2009; 600 pag.; R$ 100
+339 - os pensadores: hume; Janice Florido; Editora Nova Cultura; 1a ed.; 1999; 352 pag.; R$ 10
+340 - os segredos do karatê; Robin L. Rielly; Editora Madras; 1a ed.; 2011; 254 pag.; R$ 50
+341 - para leigos, desenho; Brenda Hoddinott; Editora Alta Books; 1a ed.; 2011; 327 pag.; R$ 50
+342 - para leigos, gaita; Winslow Yerxa; Editora Alta Books; 1a ed.; 2014; 360 pag.; R$ 30
+343 - para leigos, lógica; Mark Zegarelli; Editora Alta Books; 1a ed.; 2013; 363 pag.; R$ 40
+344 - para leigos, nutrição; Carol Ann Rinzler; Editora Alta Books; 4a ed.; 2011; 368 pag.; R$ 30
+345 - pedofilia identificar e previnir; Lúcia Cavalcanti de Albuquerque Williams; Editora Brasiliense; 1a ed.; 2012; 112 pag.; R$ 5
+346 - pontos vitais e defesa pessoal; Chung Sun-Yong; Editora Centro do Livro Brasileiro; 1a ed.; 1980; 174 pag.; R$ 30
+347 - preticando aritmética; José Carlos Admo Lacerda; Editora Issonnarte; 4a ed.; 2010; 445 pag.; R$ 30
+348 - primeiro você constrói uma nuvem; K. C. Cole; Editora Record; 1a ed.; 2007; 306 pag.; R$ 10
+349 - primeiros socorros; Drauzio Varela e Carlos Jardim; Editora Claro Enigma; 1a ed.; 2011; 64 pag.; R$ 20
+350 - princípios básicos de eletricidade; Maurice Grayle Suffern; Editora DEM; 1a ed.; 1970; 419 pag.; R$ 25
+351 - probabilidade aplicações à estatística; Paul L. Meyer; Editora LTC; 2a ed.; 1983; 426 pag.; R$ 80
+352 - pré-cálculo; Paulo Boulos; Editora Pearson Makron Books; 1a ed.; 2004; 101 pag.; R$ 20
+353 - prêmios nobel na scientific american: física e astronomia vol. 1; Ana Cláudia Ferrari e Liliana Pinheiro; Editora Duetto Editorial; 1a ed.; 2010; 159 pag.; R$ 5
+354 - prêmios nobel na scientific american: física e astronomia vol. 2; Ana Cláudia Ferrari e Liliana Pinheiro; Editora Duetto Editorial; 1a ed.; 2010; 158 pag.; R$ 5
+355 - qigong chinês ilustrado; Yu Gongbao; Editora Roca; 1a ed.; 1998; 149 pag.; R$ 10
+356 - quem é você de verdade; Nicolle Ferreira; Editora Polo Books; 1a ed.; 2016; 284 pag.; R$ 10
+357 - química um curso universitário; Bruce H. Mahan; Editora Edgard Blucher; 2a ed.; 1978; 656 pag.; R$ 50
+358 - receitas de coquetéis, aperitivos e bebidas; Lígia Junqueira; Editora Ediouro; 1a ed.; ; 72 pag.; R$ 10
+359 - relatividade; Russel Stannard; Editora L&PM; 1a ed.; 2013; 126 pag.; R$ 10
+360 - resistência dos materiais; Clésio Gabriel Di Blasi; Editora Livraria Freitas Bastos; 2a ed.; 1990; 738 pag.; R$ 20
+361 - ruas do rio de janeiro 2010; José Eduardo Camargo; Editora Abril; 1a ed.; 2009; 418 pag.; R$ 0
+362 - segredos da sinuca: fundamentos científicos; Jorge Dias Teixeira; Editora J. D. Giorgio; 1a ed.; ; 63 pag.; R$ 10
+363 - segredos dos samurais: as artes marciais do japão feudal; Oscar Ratti e Adele Westbrook; Editora Madras; 1a ed.; 2006; 510 pag.; R$ 90
+364 - sobrevivência no mar; Celso A. J. de Rezende; Editora Catatau; 1a ed.; 1991; 179 pag.; R$ 20
+365 - tabela de composição de alimentos; Sonia Tucunduva Philippi; Editora Manole; 5a ed.; 2016; 138 pag.; R$ 50
+366 - taquigafria sem mestre; Fernando Trindade; Editora Ediouro; 1a ed.; ; 108 pag.; R$ 10
+367 - tarô: as cartas do destino; Maria Silva da Conceição Passos; Editora Nova Cultura; 1a ed.; 1985; 128 pag.; R$ 30
+368 - tebelas numéricas; Lauro Sodré Viveiros de Castro; Editora Científica; 1a ed.; 1974; 128 pag.; R$ 10
+369 - teoria da música; Bohumil Med; Editora MusiMed; 4a ed.; 1996; 420 pag.; R$ 50
+370 - teoria da recursão; Matias Francisco Dias e Leonardo Weber; Editora Unesp; 1a ed.; 2010; 277 pag.; R$ 30
+371 - teoria das categorias; Paulo B. Menezes e Edward H. Haeusler; Editora Sagra Luzzatto; 1a ed.; 2001; 324 pag.; R$ 30
+372 - teoria econômica; A. W. Stonier e D. C. Hague; Editora Zahar; 4a ed.; 1965; 648 pag.; R$ 15
+373 - teoria quântica; John Polkinghorne; Editora LPM; 1a ed.; 2019; 133 pag.; R$ 20
+374 - termodinâmica tabelas; ; Editora ; a ed.; ;  pag.; R$ 2
+375 - tratamento estatístico de dados; Otaviano A. M. Helene e Vito R. Vanin; Editora Edgard Blucher; 2a ed.; 1981; 105 pag.; R$ 20
+376 - treine sem peso; Joe Kita; Editora Abril; 1a ed.; 2009; 96 pag.; R$ 10
+377 - trigonometria números complexos; Manfredo Perdigão do Carmo... [et al.]; Editora SBM; 3a ed.; 2005; 122 pag.; R$ 20
+378 - troque gordura por músculo; Joe Kita; Editora Abril; 1a ed.; 2009; 96 pag.; R$ 15
+379 - truques e mágicas incríveis; Norm Barnhart; Editora Escala; 1a ed.; 2012; 109 pag.; R$ 10
+380 - técnicas especiais de kung fu para briga de rua; Francisco d'Urbano e Milton Brizola; Editora Ediouro; 1a ed.; 1989; 104 pag.; R$ 20
+381 - um drink no inferno; Quentin Tarantino; Editora Rocco; 1a ed.; 1996; 142 pag.; R$ 5
+382 - use a cabeça! desenvolvimento par android; Dawn Griffiths e David Griffiths; Editora Alta Books; 2a ed.; 2019; 888 pag.; R$ 200
+383 - use a cabeça! java; Kathy Sierra e Bert Bates; Editora Alta Books; 2a ed.; 2010; 484 pag.; R$ 50
+384 - utilitarismo; Tim Mulgan; Editora Vozes; 1a ed.; 2012; 272 pag.; R$ 30
+385 - vade mecum compacto de direito ridel; ; Editora Ridel; 1a ed.; 2010; 2247 pag.; R$ 5
+386 - variedades diferenciais; Elon Lages Lima; Editora IMPA; 1a ed.; 2012; 289 pag.; R$ 20
+387 - vença o famoso cubo: a solução do quebra-cabeça mais diabólico do século xx; Don Taylor; Editora Ediouro; 1a ed.; 1981; 31 pag.; R$ 30
+388 - xadrez básico; Dr. Orfeu Gilberto D'Agostini; Editora Ediouro; 5a ed.; 2002; 614 pag.; R$ 50
+389 - xadrez: partidas selecionadas de v. v. smylov 1935-1958; V. V. Smylov; Editora Ibrasa; 3a ed.; 1970; 221 pag.; R$ 10
 
-Valor total em livros = R$ 15559
+Valor total em livros = R$ 16757
 
