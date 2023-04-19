@@ -83,16 +83,22 @@ void adicionar() {
 		if (top < 4999) { // se o bd não está cheio
 			string p;
 		
+			cout << "                 ----5---10---15---20---25---30---35---40---45---50---55---60---65---70---75---80---85---90---95--99\n";
 			cout << "Insira o titulo: ";
 			cin.getline(livros[++top].titulo, 100);
+			cout << "                ----5---10---15---20---25---30---35---40---45--49\n";
 			cout << "Insira o autor: ";
 			cin.getline(livros[top].autor, 50);
+			cout << "                  ----5---10---15---20---25---30---35---40---45--49\n";
 			cout << "Insira a editora: ";
 			cin.getline(livros[top].editora, 50);
+			cout << "                 ---4\n";
 			cout << "Insira a edicao: ";
-			cin.getline(livros[top].edicao, 5);		
+			cin.getline(livros[top].edicao, 5);
+			cout << "              ----5--\n";		
 			cout << "Insira o ano: ";
 			cin.getline(livros[top].ano, 8);
+			cout << "                            ----5--\n";
 			cout << "Insira o numero de paginas: ";
 			cin.getline(livros[top].paginas, 8);
 			cout << "Insira o preco: ";		
@@ -188,31 +194,37 @@ void editar() {
 		cin.get();	
 		
 		switch (atributo) {
-			case '1': 
+			case '1':
+				cout << "                      ----5---10---15---20---25---30---35---40---45---50---55---60---65---70---75---80---85---90---95--99\n";
 				cout << "Insira o novo titulo: ";
 				cin.getline(livros[indice - 1].titulo, 100);
 				break;
 			case '2':
+				cout << "                     ----5---10---15---20---25---30---35---40---45--49\n";
 				cout << "Insira o novo autor: ";
 				cin.getline(livros[indice - 1].autor, 50);
 				break;
 			case '3': 
+				cout << "                       ----5---10---15---20---25---30---35---40---45--49\n";
 				cout << "Insira a nova editora: ";
 				cin.getline(livros[indice - 1].editora, 50);
 				break;
 			case '4':
+				cout << "                      ---4\n";
 				cout << "Insira a nova edicao: ";
 				cin.getline(livros[indice - 1].edicao, 5);
 				break;
 			case '5': 
+				cout << "                   ----5--\n";
 				cout << "Insira o novo ano: ";
 				cin.getline(livros[indice - 1].ano, 8);
 				break;
 			case '6':
+				cout << "                                 ----5--\n";
 				cout << "Insira o novo numero de paginas: ";
 				cin.getline(livros[indice - 1].paginas, 8);
 				break;
-			case '7': 
+			case '7':
 				cout << "Insira o novo preco: ";
 				getline(cin, p);		
 				try {
@@ -329,23 +341,25 @@ void salvar(ofstream& ofs) {
 	ofs.write((char*) &livros, sizeof(livro) * (top + 1));	
 	ofs.close();
 	
-	ofs.open("livros.txt");	
-	ofs << file << endl << endl;
+	ofs.open(file + ".txt");	
 	
 	double total = 0;
-	
+
+	ofs << "número; título; autor; editora; edição; ano; páginas; preço (R$); total (R$)\n";
+
 	for (int i = 0; i <= top; i++) {
-		ofs << (i + 1) << " - " << livros[i].titulo << "; " 
-			 << livros[i].autor << "; Editora "
-			 << livros[i].editora << "; "
-			 << livros[i].edicao << "a ed.; "
-			 << livros[i].ano << "; "
-			 << livros[i].paginas << " pag.; R$ "
-			 << livros[i].preco << endl;
+		ofs << (i + 1) << "; " << livros[i].titulo << "; " 
+			<< livros[i].autor << "; Editora "
+			<< livros[i].editora << "; "
+			<< livros[i].edicao << "a ed.; "
+			<< livros[i].ano << "; "
+			<< livros[i].paginas << " pag.; R$ "
+			<< livros[i].preco << endl;
 		total += livros[i].preco;
 	}
-	ofs << endl;
-	ofs << "Valor total em livros = R$ " << total << endl << endl;
+
+	ofs << "; ; ; ; ; ; ; ; " << total;
+
 	ofs.close();
 	
 	system("cls");
