@@ -184,6 +184,14 @@ void editar() {
 		}
 		
 		if (indice == 0) break;
+
+		cout << (indice) << " - " << livros[indice - 1].titulo << "; " 
+			 << livros[indice - 1].autor << "; Editora "
+			 << livros[indice - 1].editora << "; "
+			 << livros[indice - 1].edicao << "a ed.; "
+			 << livros[indice - 1].ano << "; "
+			 << livros[indice - 1].paginas << " pag.; R$ "
+			 << livros[indice - 1].preco << endl;
 		
 		cout << "\nInsira o indice do atributo a ser editado\n"
 			 << "\t1 - titulo\t4 - edicao\t7 - preco\n"
